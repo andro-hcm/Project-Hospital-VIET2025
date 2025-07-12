@@ -13,7 +13,7 @@
             <GameDBLocalizedString>      <LocID>DPT_DEFAULT</LocID>                                                 <Text>Không có bộ phận</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DPT_EMERGENCY</LocID>                                               <Text>Cấp cứu</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DPT_ICU</LocID>                                                     <Text>Đơn vị chăm sóc đặc biệt</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DPT_GENERAL_SURGERY_DEPARTMENT</LocID>                              <Text>Khoa phẫu thuật tổng quát</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DPT_GENERAL_SURGERY_DEPARTMENT</LocID>                              <Text>Khoa Mổ tổng quát</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DPT_INTERNAL_MEDICINE_DEPARTMENT</LocID>                            <Text>Khoa nội khoa</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DPT_ORTHOPAEDICS_AND_TRAUMATOLOGY</LocID>                           <Text>Chỉnh hình</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DPT_CARDIOLOGY</LocID>                                              <Text>Tim mạch</Text>  </GameDBLocalizedString>
@@ -23,22 +23,22 @@
 
             <!-- Character levels-->
             <GameDBLocalizedString>      <LocID>DOCTOR_LEVEL_1</LocID>                                              <Text>Thực tập sinh</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DOCTOR_LEVEL_2</LocID>                                              <Text>Trong nghề</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DOCTOR_LEVEL_3</LocID>                                              <Text>Chăm sóc</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DOCTOR_LEVEL_4</LocID>                                              <Text>Đồng nghiệp</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DOCTOR_LEVEL_2</LocID>                                              <Text>Mới vào làm</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DOCTOR_LEVEL_3</LocID>                                              <Text>Có kinh nghiệm</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DOCTOR_LEVEL_4</LocID>                                              <Text>Già dơ</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DOCTOR_LEVEL_5</LocID>                                              <Text>Chuyên gia</Text>  </GameDBLocalizedString>
                                                                                                                
-            <GameDBLocalizedString>      <LocID>NURSE_LEVEL_1</LocID>                                               <Text>Thực tập sinh điều dưỡng</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>NURSE_LEVEL_2</LocID>                                               <Text>Y tá đã đăng ký</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>NURSE_LEVEL_3</LocID>                                               <Text>Y tá chuyên môn</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>NURSE_LEVEL_1</LocID>                                               <Text>Y tá thực tập</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>NURSE_LEVEL_2</LocID>                                               <Text>Y tá </Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>NURSE_LEVEL_3</LocID>                                               <Text>Y tá già dơ</Text>  </GameDBLocalizedString>
                                                                                                                
-            <GameDBLocalizedString>      <LocID>LAB_SPECIALIST_LEVEL_1</LocID>                                      <Text>Nhà khoa học cơ sở</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>LAB_SPECIALIST_LEVEL_2</LocID>                                      <Text>Nhà khoa học cao cấp</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>LAB_SPECIALIST_LEVEL_3</LocID>                                      <Text>Nhà khoa học bậc thầy</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>LAB_SPECIALIST_LEVEL_1</LocID>                                      <Text>Nhà khoa học thực tập</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>LAB_SPECIALIST_LEVEL_2</LocID>                                      <Text>Nhà khoa học </Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>LAB_SPECIALIST_LEVEL_3</LocID>                                      <Text>Nhà khoa học già dơ</Text>  </GameDBLocalizedString>
                                                                                                                
-            <GameDBLocalizedString>      <LocID>JANITOR_LEVEL_1</LocID>                                             <Text>Hộ lý</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>JANITOR_LEVEL_2</LocID>                                             <Text>Hộ lý cao cấp</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>JANITOR_LEVEL_3</LocID>                                             <Text>Hộ lý bậc thầy</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>JANITOR_LEVEL_1</LocID>                                             <Text>Hộ lý thực tập</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>JANITOR_LEVEL_2</LocID>                                             <Text>Hộ lý</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>JANITOR_LEVEL_3</LocID>                                             <Text>Hộ lý già dơ</Text>  </GameDBLocalizedString>
             
             
             <!-- Doctor's QUALIFICATIONS -->
@@ -55,33 +55,33 @@
             <GameDBLocalizedString>      <LocID>SKILL_DOC_SPEC_CRITICAL_CARE</LocID>                                <Text>Y học chăm sóc quan trọng</Text> </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SKILL_DOC_SPEC_CRITICAL_CARE_DESCRIPTION</LocID>                    <Text>Y học chăm sóc quan trọng cho phép bác sĩ tiếp cận với phương pháp chẩn đoán chuyên biệt được sử dụng tại ICU.</Text></GameDBLocalizedString>
             
-            <GameDBLocalizedString>      <LocID>SKILL_DOC_SPEC_GENERAL_SURGERY</LocID>                              <Text>Phẫu thuật tổng quát</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SKILL_DOC_SPEC_GENERAL_SURGERY_DESCRIPTION</LocID>                  <Text>Chuyên môn phẫu thuật tổng quát được sử dụng trong khám và kê đơn điều trị tại khoa phẫu thuật tổng quát và cho phép bác sĩ hỗ trợ phẫu thuật.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SKILL_DOC_SPEC_OPERATIVE_SURGERY</LocID>                            <Text>Thực hành phẫu thuật</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SKILL_DOC_SPEC_OPERATIVE_SURGERY_DESCRIPTION</LocID>                <Text>Thực hành phẫu thuật cho phép bác sĩ làm phẫu thuật viên chính tại khoa phẫu thuật tổng quát và ảnh hưởng đến tần suất cuộc phẫu thuật sẽ kết thúc với biến chứng.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SKILL_DOC_SPEC_GENERAL_SURGERY</LocID>                              <Text>Mổ tổng quát</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SKILL_DOC_SPEC_GENERAL_SURGERY_DESCRIPTION</LocID>                  <Text>Chuyên môn Mổ tổng quát được sử dụng trong khám và kê đơn điều trị tại khoa Mổ tổng quát và cho phép bác sĩ hỗ trợ Mổ.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SKILL_DOC_SPEC_OPERATIVE_SURGERY</LocID>                            <Text>Thực hành Mổ</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SKILL_DOC_SPEC_OPERATIVE_SURGERY_DESCRIPTION</LocID>                <Text>Thực hành Mổ cho phép bác sĩ làm phẫu thuật viên chính tại khoa Mổ tổng quát và ảnh hưởng đến tần suất cuộc Mổ sẽ kết thúc với biến chứng.</Text>  </GameDBLocalizedString>
             
             <GameDBLocalizedString>      <LocID>SKILL_DOC_SPEC_INTERNAL_MEDICINE</LocID>                            <Text>Khoa nội</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SKILL_DOC_SPEC_INTERNAL_MEDICINE_DESCRIPTION</LocID>                <Text>Chuyên môn Khoa nội được sử dụng trong khám chuyên khoa và kê đơn điều trị tại khoa nội khoa và cho phép bác sĩ hỗ trợ phẫu thuật.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SKILL_DOC_SPEC_INTERNAL_MEDICINE_SURGERY</LocID>                    <Text>Phẫu thuật IM</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SKILL_DOC_SPEC_INTERNAL_MEDICINE_SURGERY_DESCRIPTION</LocID>        <Text>Khoa nội cho phép bác sĩ làm phẫu thuật viên chính tại khoa nội khoa và ảnh hưởng đến tần suất cuộc phẫu thuật sẽ kết thúc với biến chứng.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SKILL_DOC_SPEC_INTERNAL_MEDICINE_DESCRIPTION</LocID>                <Text>Chuyên môn Khoa nội được sử dụng trong khám chuyên khoa và kê đơn điều trị tại khoa nội khoa và cho phép bác sĩ hỗ trợ Mổ.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SKILL_DOC_SPEC_INTERNAL_MEDICINE_SURGERY</LocID>                    <Text>Mổ khoa nội</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SKILL_DOC_SPEC_INTERNAL_MEDICINE_SURGERY_DESCRIPTION</LocID>        <Text>Khoa nội cho phép bác sĩ làm phẫu thuật viên chính tại khoa nội khoa và ảnh hưởng đến tần suất cuộc Mổ sẽ kết thúc với biến chứng.</Text>  </GameDBLocalizedString>
             
             <GameDBLocalizedString>      <LocID>SKILL_DOC_SPEC_ORTHOPAEDY</LocID>                                   <Text>Chỉnh hình</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SKILL_DOC_SPEC_ORTHOPAEDY_DESCRIPTION</LocID>                       <Text>Chỉnh hình được sử dụng trong khám chuyên khoa và kê đơn điều trị tại khoa chỉnh hình và cho phép bác sĩ hỗ trợ phẫu thuật.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SKILL_DOC_SPEC_ORTHOPAEDIC_SURGERY</LocID>                          <Text>Phẫu thuật chỉnh hình</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SKILL_DOC_SPEC_ORTHOPAEDIC_SURGERY_DESCRIPTION</LocID>              <Text>Phẫu thuật chỉnh hình cho phép bác sĩ làm phẫu thuật viên chính tại khoa chỉnh hình và ảnh hưởng đến tần suất cuộc phẫu thuật sẽ kết thúc với biến chứng.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SKILL_DOC_SPEC_ORTHOPAEDY_DESCRIPTION</LocID>                       <Text>Chỉnh hình được sử dụng trong khám chuyên khoa và kê đơn điều trị tại khoa chỉnh hình và cho phép bác sĩ hỗ trợ Mổ.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SKILL_DOC_SPEC_ORTHOPAEDIC_SURGERY</LocID>                          <Text>Mổ chỉnh hình</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SKILL_DOC_SPEC_ORTHOPAEDIC_SURGERY_DESCRIPTION</LocID>              <Text>Mổ chỉnh hình cho phép bác sĩ làm phẫu thuật viên chính tại khoa chỉnh hình và ảnh hưởng đến tần suất cuộc Mổ sẽ kết thúc với biến chứng.</Text>  </GameDBLocalizedString>
             
             <GameDBLocalizedString>      <LocID>SKILL_DOC_SPEC_CARDIOLOGY</LocID>                                   <Text>Tim mạch</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SKILL_DOC_SPEC_CARDIOLOGY_DESCRIPTION</LocID>                       <Text>Tim mạch được sử dụng trong khám chuyên khoa và kê đơn điều trị tại khoa tim mạch và cho phép bác sĩ hỗ trợ phẫu thuật.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SKILL_DOC_SPEC_CARDIO_SURGERY</LocID>                               <Text>Phẫu thuật tim mạch</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SKILL_DOC_SPEC_CARDIO_SURGERY_DESCRIPTION</LocID>                   <Text>Phẫu thuật tim mạch cho phép bác sĩ làm phẫu thuật viên chính tại khoa tim mạch và ảnh hưởng đến tần suất cuộc phẫu thuật sẽ kết thúc với biến chứng.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SKILL_DOC_SPEC_CARDIOLOGY_DESCRIPTION</LocID>                       <Text>Tim mạch được sử dụng trong khám chuyên khoa và kê đơn điều trị tại khoa tim mạch và cho phép bác sĩ hỗ trợ Mổ.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SKILL_DOC_SPEC_CARDIO_SURGERY</LocID>                               <Text>Mổ tim mạch</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SKILL_DOC_SPEC_CARDIO_SURGERY_DESCRIPTION</LocID>                   <Text>Mổ tim mạch cho phép bác sĩ làm phẫu thuật viên chính tại khoa tim mạch và ảnh hưởng đến tần suất cuộc Mổ sẽ kết thúc với biến chứng.</Text>  </GameDBLocalizedString>
             
             <GameDBLocalizedString>      <LocID>SKILL_DOC_SPEC_NEUROLOGY</LocID>                                    <Text>Thần kinh</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SKILL_DOC_SPEC_NEUROLOGY_DESCRIPTION</LocID>                        <Text>Thần kinh được sử dụng trong khám chuyên khoa và kê đơn điều trị tại khoa thần kinh và cho phép bác sĩ hỗ trợ phẫu thuật.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SKILL_DOC_SPEC_NEURO_SURGERY</LocID>                                 <Text>Phẫu thuật thần kinh</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SKILL_DOC_SPEC_NEURO_SURGERY_DESCRIPTION</LocID>                     <Text>Phẫu thuật thần kinh cho phép bác sĩ làm phẫu thuật viên chính tại khoa thần kinh và ảnh hưởng đến tần suất cuộc phẫu thuật sẽ kết thúc với biến chứng.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SKILL_DOC_SPEC_NEUROLOGY_DESCRIPTION</LocID>                        <Text>Thần kinh được sử dụng trong khám chuyên khoa và kê đơn điều trị tại khoa thần kinh và cho phép bác sĩ hỗ trợ Mổ.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SKILL_DOC_SPEC_NEURO_SURGERY</LocID>                                 <Text>Mổ thần kinh</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SKILL_DOC_SPEC_NEURO_SURGERY_DESCRIPTION</LocID>                     <Text>Mổ thần kinh cho phép bác sĩ làm phẫu thuật viên chính tại khoa thần kinh và ảnh hưởng đến tần suất cuộc Mổ sẽ kết thúc với biến chứng.</Text>  </GameDBLocalizedString>
             
             <GameDBLocalizedString>      <LocID>SKILL_DOC_SPEC_ANESTHESIOLOGY</LocID>                               <Text>Gây mê</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SKILL_DOC_SPEC_ANESTHESIOLOGY_DESCRIPTION</LocID>                   <Text>Bác sĩ sẽ gây mê khi phẫu thuật và tạo thêm cơ hội sống sót cho Bệnh nhân yếu nhược ổn định bởi bác sĩ này. \nGiảm xác suất tử vong cho bệnh nhân yếu nhược. \nGiảm các biến chứng hậu phẫu sau phẫu thuật.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SKILL_DOC_SPEC_ANESTHESIOLOGY_DESCRIPTION</LocID>                   <Text>Bác sĩ sẽ gây mê khi Mổ và tạo thêm cơ hội sống sót cho Bệnh nhân yếu nhược ổn định bởi bác sĩ này. \nGiảm xác suất tử vong cho bệnh nhân yếu nhược. \nGiảm các biến chứng hậu phẫu sau Mổ.</Text>  </GameDBLocalizedString>
 
             
             <!-- Nurse's QUALIFICATIONS -->
@@ -89,12 +89,12 @@
             <GameDBLocalizedString>      <LocID>SKILL_NURSE_QUALIF_PATIENT_CARE_DESCRIPTION</LocID>                 <Text>Y tá có khả năng cung cấp loại hình chăm sóc bệnh nhân.</Text>  </GameDBLocalizedString>
 
             <!-- Nurse's SPECIALIZATIONS -->
-            <GameDBLocalizedString>      <LocID>SKILL_NURSE_SPEC_RECEPTIONIST</LocID>                               <Text>Nhân viên lễ tân</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SKILL_NURSE_SPEC_RECEPTIONIST</LocID>                               <Text>Lễ tân</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SKILL_NURSE_SPEC_RECEPTIONIST_DESCRIPTION</LocID>                   <Text>Lễ tân đại diện cho điểm tiếp xúc đầu tiên với bệnh nhân.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SKILL_NURSE_SPEC_MEDICAL_SURGERY</LocID>                            <Text>Phẫu thuật y tế</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SKILL_NURSE_SPEC_MEDICAL_SURGERY_DESCRIPTION</LocID>                <Text>Y tá phẫu thuật đại diện cho bộ phận quan trọng của đội phẫu thuật.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SKILL_NURSE_SPEC_CLINICAL_SPECIALIST</LocID>                        <Text>Y tá chuyên môn lâm sàng</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SKILL_NURSE_SPEC_CLINICAL_SPECIALIST_DESCRIPTION</LocID>            <Text>Y tá chuyên môn lâm sàng có khả năng phát hiện triệu chứng của bệnh nhân.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SKILL_NURSE_SPEC_MEDICAL_SURGERY</LocID>                            <Text>Y tá mổ</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SKILL_NURSE_SPEC_MEDICAL_SURGERY_DESCRIPTION</LocID>                <Text>Y tá Mổ đại diện cho bộ phận quan trọng của đội Mổ.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SKILL_NURSE_SPEC_CLINICAL_SPECIALIST</LocID>                        <Text>Y tá chuyên lâm sàng</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SKILL_NURSE_SPEC_CLINICAL_SPECIALIST_DESCRIPTION</LocID>            <Text>Y tá chuyên lâm sàng có khả năng phát hiện triệu chứng của bệnh nhân.</Text>  </GameDBLocalizedString>
 
             
             <!-- Lab guys QUALIFICATIONS -->
@@ -107,7 +107,7 @@
             <GameDBLocalizedString>      <LocID>SKILL_LAB_SPECIALIST_SPEC_RADIOLOGY</LocID>                         <Text>Phóng xạ</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SKILL_LAB_SPECIALIST_SPEC_RADIOLOGY_DESCRIPTION</LocID>             <Text>Chuyên gia phóng xạ có khả năng vận hành đầy đủ các máy chụp X-quang và thiết bị liên quan đến phóng xạ khác.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SKILL_LAB_SPECIALIST_SPEC_GIT</LocID>                               <Text>GIT</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SKILL_LAB_SPECIALIST_SPEC_GIT_DESCRIPTION</LocID>                   <Text>Kỹ thuật viên GIT có khả năng vận hành các thiết bị kiểm tra liên quan đến phẫu thuật tổng quát.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SKILL_LAB_SPECIALIST_SPEC_GIT_DESCRIPTION</LocID>                   <Text>Kỹ thuật viên GIT có khả năng vận hành các thiết bị kiểm tra liên quan đến Mổ tổng quát.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SKILL_LAB_SPECIALIST_SPEC_USG</LocID>                               <Text>USG</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SKILL_LAB_SPECIALIST_SPEC_USG_DESCRIPTION</LocID>                   <Text>Kỹ thuật viên USG có khả năng vận hành các thiết bị Siêu âm học.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SKILL_LAB_SPECIALIST_SPEC_CARDIOLOGY</LocID>                        <Text>Tim mạch</Text>  </GameDBLocalizedString>
