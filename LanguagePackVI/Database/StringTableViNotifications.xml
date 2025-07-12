@@ -16,8 +16,8 @@
             <GameDBLocalizedString>      <LocID>NOTIF_INSUR_COMPANY_NOW_AVLBL</LocID>        <Text>Công ty bảo hiểm có thể được ký hợp đồng!</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>NOTIF_INSUR_COMPANY_NOW_AVLBL_TEXT</LocID>   <Text><![CDATA[Công ty bảo hiểm <i>{1}</i> có thể được ký hợp đồng với bệnh nhân!]]></Text>  </GameDBLocalizedString>
 
-            <GameDBLocalizedString>      <LocID>NOTIF_EMPLOYEE_GOT_DRUNK</LocID>             <Text>Nhân viên say tối qua!</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>NOTIF_EMPLOYEE_GOT_DRUNK_TEXT</LocID>        <Text>Nhân viên say tối qua! Hôm nay sẽ không cảm thấy quá tốt...</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>NOTIF_EMPLOYEE_GOT_DRUNK</LocID>             <Text>Nhân viên nhậu xỉn tối qua!</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>NOTIF_EMPLOYEE_GOT_DRUNK_TEXT</LocID>        <Text>Nhân viên nhậu xỉn tối qua! Hôm nay sẽ hơi lù đù...</Text>  </GameDBLocalizedString>
             
             <GameDBLocalizedString>      <LocID>NOTIF_NO_WAITING_ROOM</LocID>                <Text>Không có phòng chờ tại phòng khám!</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>NOTIF_NO_WAITING_ROOM_TEXT</LocID>           <Text><![CDATA[Không có phòng chờ hợp lệ nào gần tầm phòng bác sĩ tại <i>{1}</i>.]]></Text>  </GameDBLocalizedString>
@@ -83,10 +83,10 @@
             <GameDBLocalizedString>      <LocID>NOTIF_CHARACTER_FIRED</LocID>                <Text>Nhân viên bị sa thải.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>NOTIF_CHARACTER_FIRED_TEXT</LocID>           <Text>Nhân viên sẽ rời đi ngay sau khi họ hoàn thành thủ tục hiện tại.</Text>  </GameDBLocalizedString>
 
-            <GameDBLocalizedString>      <LocID>NOTIF_WAITING_FOR_PLAYER_DIAGNOSIS</LocID>   <Text>Thủ tục đã hoàn thành.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>NOTIF_WAITING_FOR_PLAYER_DIAGNOSIS</LocID>   <Text>Quy trình hoàn thành.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>NOTIF_WAITING_FOR_PLAYER_DIAGNOSIS_TEXT</LocID><Text><![CDATA[Thủ tục theo lịch trình đã hoàn thành (cuối cùng là <i>{1}</i>), bệnh nhân đang đợi bạn lên kế hoạch khám khác hoặc chọn chẩn đoán.]]></Text>  </GameDBLocalizedString>
 
-            <GameDBLocalizedString>      <LocID>NOTIF_WAITING_FOR_PLAYER_TREATMENT</LocID>   <Text>Thủ tục đã hoàn thành cho bệnh nhân được chẩn đoán.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>NOTIF_WAITING_FOR_PLAYER_TREATMENT</LocID>   <Text>Quy trình hoàn thành cho bệnh nhân được chẩn đoán.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>NOTIF_WAITING_FOR_PLAYER_TREATMENT_TEXT</LocID><Text><![CDATA[Thủ tục theo lịch trình đã hoàn thành (cuối cùng là <i>{1}</i>), bệnh nhân đang đợi bạn lên kế hoạch điều trị khác hoặc gửi họ về nhà.]]></Text>  </GameDBLocalizedString>
 
             <GameDBLocalizedString>      <LocID>NOTIF_DIAGNOSIS_SELECTED</LocID>             <Text>Bệnh nhân được chẩn đoán.</Text>  </GameDBLocalizedString>
@@ -108,14 +108,14 @@
             <GameDBLocalizedString>      <LocID>NOTIF_FAVORITE_PATIENT_NEW_SYMPTOM_APPEARED_TEXT</LocID><Text>Triệu chứng ẩn mới xuất hiện trên Bệnh nhân yêu thích, nó có thể rất nguy hiểm.</Text>  </GameDBLocalizedString>
 
             <!-- TODO after beta: levels and first collapse -->
-            <GameDBLocalizedString>      <LocID>NOTIF_PATIENT_COLLAPSING</LocID>                <Text>Bệnh nhân đang suy sụp.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>NOTIF_PATIENT_COLLAPSING_TEXT</LocID>           <Text>Bệnh nhân đang suy sụp! Nhân viên của bạn sẽ cố gắng hết sức để giữ cho họ sống sót.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>NOTIF_PATIENT_COLLAPSING</LocID>                <Text>Bệnh nhân đang đột quỵ.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>NOTIF_PATIENT_COLLAPSING_TEXT</LocID>           <Text>Bệnh nhân đang đột quỵ! Nhân viên của bạn sẽ cố gắng hết sức để giữ cho họ sống sót.</Text>  </GameDBLocalizedString>
             
-            <GameDBLocalizedString>      <LocID>NOTIF_FAVORITE_PATIENT_COLLAPSING</LocID>       <Text>Bệnh nhân yêu thích đang suy sụp.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>NOTIF_FAVORITE_PATIENT_COLLAPSING_TEXT</LocID>  <Text>Bệnh nhân yêu thích đang suy sụp! Nhân viên của bạn sẽ cố gắng hết sức để giữ cho họ sống sót.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>NOTIF_FAVORITE_PATIENT_COLLAPSING</LocID>       <Text>Bệnh nhân yêu thích đang đột quỵ.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>NOTIF_FAVORITE_PATIENT_COLLAPSING_TEXT</LocID>  <Text>Bệnh nhân yêu thích đang đột quỵ! Nhân viên của bạn sẽ cố gắng hết sức để giữ cho họ sống sót.</Text>  </GameDBLocalizedString>
 
-            <GameDBLocalizedString>      <LocID>NOTIF_MONITORED_PATIENT_COLLAPSING</LocID>      <Text>Bệnh nhân được giám sát đang suy sụp.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>NOTIF_MONITORED_PATIENT_COLLAPSING_TEXT</LocID><Text>Bệnh nhân được giám sát đang suy sụp! Nhân viên của bạn sẽ cố gắng hết sức để giữ cho họ sống sót.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>NOTIF_MONITORED_PATIENT_COLLAPSING</LocID>      <Text>Bệnh nhân được giám sát đang đột quỵ.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>NOTIF_MONITORED_PATIENT_COLLAPSING_TEXT</LocID><Text>Bệnh nhân được giám sát đang đột quỵ! Nhân viên của bạn sẽ cố gắng hết sức để giữ cho họ sống sót.</Text>  </GameDBLocalizedString>
 
             <GameDBLocalizedString>      <LocID>NOTIF_PLAYERS_PATIENT_HIDDEN_SYMPTOM_FOUND</LocID><Text>Triệu chứng ẩn mới xuất hiện trên bệnh nhân của bạn.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>NOTIF_PLAYERS_PATIENT_HIDDEN_SYMPTOM_FOUND_TEXT</LocID><Text>Y tá đã tìm thấy {1} triệu chứng tiềm ẩn mới trên bệnh nhân của bạn, nó có thể rất nguy hiểm.</Text>  </GameDBLocalizedString>
@@ -147,14 +147,14 @@
             <GameDBLocalizedString>      <LocID>NOTIF_LONG_WAIT_COLLAPSE</LocID>             <Text>Bệnh nhân đột quỵ đang chờ giường!</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>NOTIF_LONG_WAIT_COLLAPSE_TEXT</LocID>        <Text><![CDATA[Không có giường trống cho nhập viện bắt buộc: <i>{1}</i>.]]></Text>  </GameDBLocalizedString>
             
-            <GameDBLocalizedString>      <LocID>NOTIF_NO_HOSPITALIZATION_COLLAPSE</LocID>    <Text>Collapsed Bệnh nhân không thể nhập viện!</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>NOTIF_NO_HOSPITALIZATION_COLLAPSE</LocID>    <Text>Bệnh nhân đột quỵ không thể nhập viện!</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>NOTIF_NO_HOSPITALIZATION_COLLAPSE_TEXT</LocID>        <Text><![CDATA[Nhập viện bắt buộc không khả dụng: <i>{1}</i>.]]></Text>  </GameDBLocalizedString>
 
             <GameDBLocalizedString>      <LocID>NOTIF_LONG_WAIT_FOR_TRANSPORT</LocID>        <Text>Chờ di chuyển lâu!</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>NOTIF_LONG_WAIT_FOR_TRANSPORT_TEXT</LocID>   <Text>Có đủ y tá rãnh để vận chuyển bệnh nhân không?</Text>  </GameDBLocalizedString>
             
             <GameDBLocalizedString>      <LocID>NOTIF_LONG_WAIT_FOR_DEFIBRILATION_STAFF</LocID><Text>Chờ khử rung tim lâu!</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>NOTIF_LONG_WAIT_FOR_DEFIBRILATION_STAFF_TEXT</LocID><Text>Có đủ y tá rãnh và bác sĩ rãnh để khử rung tim không?</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>NOTIF_LONG_WAIT_FOR_DEFIBRILATION_STAFF_TEXT</LocID><Text>Có đủ nhân viên rãnh để khử rung tim không?</Text>  </GameDBLocalizedString>
             
             <GameDBLocalizedString>      <LocID>NOTIF_LONG_WAIT_FOR_DEFIBRILATION_NURSE</LocID><Text>Chờ khử rung tim lâu!</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>NOTIF_LONG_WAIT_FOR_DEFIBRILATION_NURSE_TEXT</LocID><Text>Có đủ y tá rãnh để khử rung tim không?</Text>  </GameDBLocalizedString>
@@ -176,10 +176,10 @@
             <GameDBLocalizedString>      <LocID>NOTIF_EVENT_FAILED</LocID>                   <Text>Sự kiện thất bại.</Text>  </GameDBLocalizedString>
             <!-- UPDATED --> <GameDBLocalizedString>      <LocID>NOTIF_EVENT_FAILED_TEXT</LocID><Text>Bạn không hoàn thành sự kiện kịp thời hoặc một bệnh nhân của bạn chết hoặc bị chuyển đi. Uy tín của bạn giảm trong ngày này hoặc cho đến khi bạn hoàn thành sự kiện thành công.\nBạn cũng bị phạt tiền: {1}$</Text>  </GameDBLocalizedString>
 
-            <GameDBLocalizedString>      <LocID>NOTIF_PATIENT_DIED</LocID>              	 <Text>Bệnh nhân chết. :(</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>NOTIF_PATIENT_DIED</LocID>              	 <Text>Bệnh nhân tạch. :(</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>NOTIF_PATIENT_DIED_TEXT</LocID>          	 <Text>Tình trạng của bệnh nhân rất nguy kịch và bất chấp những nỗ lực hết sức của bác sĩ, họ vẫn không cứu được. Một bệnh viện hiệu quả hơn sẽ giải quyết trường hợp này tốt hơn?</Text>  </GameDBLocalizedString>
 
-            <GameDBLocalizedString>      <LocID>NOTIF_NO_TREATMENT_LEAVING</LocID>           <Text>Bệnh nhân đang rời đi.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>NOTIF_NO_TREATMENT_LEAVING</LocID>           <Text>Bệnh nhân đang đi về.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>NOTIF_NO_TREATMENT_LEAVING_TEXT</LocID>      <Text>Bệnh nhân không điều trị được sẽ ra đi.</Text>  </GameDBLocalizedString>
 
             <GameDBLocalizedString>      <LocID>NOTIF_NO_TREATMENT_TAKEN_AWAY</LocID>        <Text>Bệnh nhân đang được chuyển đến bệnh viện khác.</Text>  </GameDBLocalizedString>
