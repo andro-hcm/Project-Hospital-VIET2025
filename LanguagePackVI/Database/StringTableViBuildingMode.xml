@@ -190,8 +190,8 @@
             <!--UPDATED--><GameDBLocalizedString>      <LocID>ROOM_TYPE_NEURODIAGNOSTIC_UNIT_NE</LocID>                   <Text>Phòng nơron</Text>  </GameDBLocalizedString>
             <!--UPDATED--><GameDBLocalizedString>      <LocID>ROOM_TYPE_NEURODIAGNOSTIC_UNIT_NE_DESCRIPTION</LocID>       <Text>Cung cấp các bài kiểm tra thần kinh cụ thể.\n\nTối thiểu. Yêu cầu nhân viên: \n1x Nhà công nghệ - Nhà thần kinh</Text>  </GameDBLocalizedString>
 
-            <GameDBLocalizedString>      <LocID>ROOM_TYPE_TRAUMA_CENTER</LocID>                      <Text>Trung tâm chấn thương</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>ROOM_TYPE_TRAUMA_CENTER_DESCRIPTION</LocID>          <Text>Trung tâm chấn thương đóng vai trò là điểm vào chính cho bệnh nhân quan trọng được đưa đến bằng xe cứu thương và cũng chấp nhận bệnh nhân yếu nhược.\n\nTối thiểu. Yêu cầu nhân viên: \n1x Bác sĩ - Y học cấp cứu \n1x Y tá \n(Nhân sự cơ bản tại Phòng trực và Phòng trực y tá)</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ROOM_TYPE_TRAUMA_CENTER</LocID>                      <Text>Phòng cấp cứu đặc biệt</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ROOM_TYPE_TRAUMA_CENTER_DESCRIPTION</LocID>          <Text>Phòng cấp cứu đặc biệt đóng vai trò là điểm vào chính cho bệnh nhân nguy kịch được đưa đến bằng xe cứu thương và cũng chấp nhận bệnh nhân yếu nhược.\n\nTối thiểu. Yêu cầu nhân viên: \n1x Bác sĩ - Y học cấp cứu \n1x Y tá \n(Nhân sự cơ bản tại Phòng trực và Phòng trực y tá)</Text>  </GameDBLocalizedString>
 
             <GameDBLocalizedString>      <LocID>ROOM_TYPE_INPATIENT_GS_OFFICE</LocID>                               <Text>Phòng chẩn đoán</Text>   </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>ROOM_TYPE_INPATIENT_GS_OFFICE_DESCRIPTION</LocID>                   <Text>Phòng chẩn đoán tại Khoa phẫu thuật tổng quát cung cấp quy trình khám và điều trị cho bệnh nhân nhập viện.\n\nTối thiểu. Yêu cầu nhân viên: \n1x Bác sĩ \n(Nhân sự cơ bản tại Phòng trực)</Text></GameDBLocalizedString>
@@ -672,7 +672,7 @@
 
             <GameDBLocalizedString>      <LocID>PREFAB_ROOM_OBSERVATION_ROOM_LARGE_ABBR</LocID>      <Text>Phòng theo dõi - 14 x 6</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>PREFAB_ROOM_OBSERVATION_ROOM_SMALL_ABBR</LocID>      <Text>Phòng theo dõi - 8 x 6</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>PREFAB_ROOM_TRAUMA_CENTER_ABBR</LocID>               <Text>Trung tâm chấn thương - 6 x 6</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>PREFAB_ROOM_TRAUMA_CENTER_ABBR</LocID>               <Text>Phòng cấp cứu đặc biệt - 6 x 6</Text>  </GameDBLocalizedString>
 
             <GameDBLocalizedString>      <LocID>PREFAB_ROOM_STAT_LAB_ER_ABBR</LocID>                 <Text>Phòng TN STAT - 8 x 6</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>PREFAB_ROOM_STAT_LAB_IM_ABBR</LocID>                 <Text>Phòng TN y tế - 8 x 6</Text>  </GameDBLocalizedString>
