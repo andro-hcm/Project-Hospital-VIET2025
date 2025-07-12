@@ -131,11 +131,11 @@
             <GameDBLocalizedString>      <LocID>DOOR_DOUBLE_ELEVATOR</LocID>                     	<Text>Cửa trượt kim loại</Text>  </GameDBLocalizedString>
 
             <GameDBLocalizedString>      <LocID>ROOM_TYPE_WAITING</LocID>                           <Text>Phòng chờ</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>ROOM_TYPE_WAITING_DESCRIPTION</LocID>               <Text>Phòng chờ phải được đặt trong tầm với của mỗi văn phòng, phòng thí nghiệm và phòng X-quang.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ROOM_TYPE_WAITING_DESCRIPTION</LocID>               <Text>Phòng chờ phải được đặt cạnh Phòng, phòng thí nghiệm và phòng X-quang.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>ROOM_TYPE_DOCTORS_OFFICE</LocID>                    <Text>Phòng khám</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>ROOM_TYPE_DOCTORS_OFFICE_DESCRIPTION</LocID>        <Text>Phòng khám lâm sàng cơ bản để khám và điều trị đơn giản. Yêu cầu nhân viên:\n1x Bác sĩ</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>ROOM_TYPE_COMMON_ROOM</LocID>                       <Text>Phòng sinh hoạt chung</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>ROOM_TYPE_COMMON_ROOM_DESCRIPTION</LocID>           <Text>Phòng sinh hoạt chung là nơi nghỉ ngơi, học tập và ăn uống của nhân viên bệnh viện..</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ROOM_TYPE_COMMON_ROOM</LocID>                       <Text>Phòng chung</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ROOM_TYPE_COMMON_ROOM_DESCRIPTION</LocID>           <Text>Phòng chung là nơi nghỉ ngơi, học tập và ăn uống của nhân viên bệnh viện..</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>ROOM_TYPE_RECEPTION</LocID>                         <Text>Lễ tân</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>ROOM_TYPE_RECEPTION_DESCRIPTION</LocID>             <Text>Lễ tân đảm bảo rằng bệnh nhân được sắp xếp chính xác khi đến, vì vậy bệnh nhân có khả năng cao được ưu tiên trong chuyến thăm của họ.\n\nTối thiểu. Yêu cầu nhân viên: \n1x Y tá - Nhân viên lễ tân</Text>  </GameDBLocalizedString>
 
@@ -217,15 +217,15 @@
             <GameDBLocalizedString>      <LocID>ROOM_TYPE_INTENSIVE_CARE_UNIT_DESCRIPTION</LocID>           <Text>Đơn vị chăm sóc đặc biệt cung cấp dịch vụ chăm sóc y tế cao cấp cho bệnh nhân quan trọng để duy trì các chức năng quan trọng của họ.\n\nTối thiểu. Yêu cầu nhân viên: \n1x Bác sĩ \n1x Y tá \n(Nhân sự cơ bản tại Phòng trực và Trạm y tá)</Text>  </GameDBLocalizedString>
 
             <GameDBLocalizedString>      <LocID>ROOM_TYPE_GENERAL_SURGERY_OFFICE</LocID>                <Text>Phòng phẫu thuật tổng quát</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>ROOM_TYPE_GENERAL_SURGERY_OFFICE_DESCRIPTION</LocID>    <Text>Phòng phẫu thuật tổng quát là văn phòng chẩn đoán thông thường cho bệnh nhân ngoại trú.\n\nTối thiểu. Yêu cầu nhân viên: \n1x Bác sĩ</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ROOM_TYPE_GENERAL_SURGERY_OFFICE_DESCRIPTION</LocID>    <Text>Phòng phẫu thuật tổng quát là Phòng chẩn đoán thông thường cho bệnh nhân ngoại trú.\n\nTối thiểu. Yêu cầu nhân viên: \n1x Bác sĩ</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>ROOM_TYPE_INTERNAL_MEDICINE_OFFICE</LocID>              <Text>Phòng khoa nội</Text>   </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>ROOM_TYPE_INTERNAL_MEDICINE_OFFICE_DESCRIPTION</LocID>  <Text>Phòng khoa nội là văn phòng chẩn đoán thông thường cho bệnh nhân ngoại trú.\n\nTối thiểu. Yêu cầu nhân viên: \n1x Bác sĩ</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ROOM_TYPE_INTERNAL_MEDICINE_OFFICE_DESCRIPTION</LocID>  <Text>Phòng khoa nội là Phòng chẩn đoán thông thường cho bệnh nhân ngoại trú.\n\nTối thiểu. Yêu cầu nhân viên: \n1x Bác sĩ</Text></GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>ROOM_TYPE_ORTHOPAEDICS_OFFICE</LocID>                   <Text>Phòng chỉnh hình</Text>   </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>ROOM_TYPE_ORTHOPAEDICS_OFFICE_DESCRIPTION</LocID>       <Text>Phòng chỉnh hình là văn phòng chẩn đoán thông thường cho bệnh nhân ngoại trú.\n\nTối thiểu. Yêu cầu nhân viên: \n1x Bác sĩ</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>ROOM_TYPE_CARDIOLOGY_OFFICE</LocID>                     <Text>Văn phòng tim mạch</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>ROOM_TYPE_CARDIOLOGY_OFFICE_DESCRIPTION</LocID>         <Text>Văn phòng tim mạch là văn phòng chẩn đoán thông thường cho bệnh nhân ngoại trú.\n\nTối thiểu. Yêu cầu nhân viên: \n1x Bác sĩ</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>ROOM_TYPE_NEUROLOGY_OFFICE</LocID>                      <Text>Văn phòng thần kinh</Text>   </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>ROOM_TYPE_NEUROLOGY_OFFICE_DESCRIPTION</LocID>          <Text>Văn phòng thần kinh là văn phòng chẩn đoán thông thường cho bệnh nhân ngoại trú.\n\nTối thiểu. Yêu cầu nhân viên: \n1x Bác sĩ</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ROOM_TYPE_ORTHOPAEDICS_OFFICE_DESCRIPTION</LocID>       <Text>Phòng chỉnh hình là Phòng chẩn đoán thông thường cho bệnh nhân ngoại trú.\n\nTối thiểu. Yêu cầu nhân viên: \n1x Bác sĩ</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ROOM_TYPE_CARDIOLOGY_OFFICE</LocID>                     <Text>Phòng tim mạch</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ROOM_TYPE_CARDIOLOGY_OFFICE_DESCRIPTION</LocID>         <Text>Phòng tim mạch là Phòng chẩn đoán thông thường cho bệnh nhân ngoại trú.\n\nTối thiểu. Yêu cầu nhân viên: \n1x Bác sĩ</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ROOM_TYPE_NEUROLOGY_OFFICE</LocID>                      <Text>Phòng thần kinh</Text>   </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ROOM_TYPE_NEUROLOGY_OFFICE_DESCRIPTION</LocID>          <Text>Phòng thần kinh là Phòng chẩn đoán thông thường cho bệnh nhân ngoại trú.\n\nTối thiểu. Yêu cầu nhân viên: \n1x Bác sĩ</Text></GameDBLocalizedString>
 
             <GameDBLocalizedString>      <LocID>ROOM_TYPE_OPERATING_ROOM</LocID>                    <Text>Phòng mổ</Text></GameDBLocalizedString>
             <!--UPDATED--><GameDBLocalizedString><LocID>ROOM_TYPE_OPERATING_ROOM_DESCRIPTION</LocID><Text>Phòng mổ được trang bị đầy đủ cho tất cả quy trình phẫu thuật.\n\nTối thiểu. Yêu cầu nhân viên: \n1x Bác sĩ - Bác sĩ phẫu thuật \n1x Bác sĩ - Phụ tá \n1x Bác sĩ gây mê \n1x Y tá phẫu thuật \n1x Y tá \n(Nhân sự cơ bản tại Phòng trực và Trạm y tá)</Text></GameDBLocalizedString>
@@ -236,9 +236,9 @@
             <GameDBLocalizedString>      <LocID>OBJECT_CHAIR_DEFAULT</LocID>                        <Text>Ghế</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_CHAIR_DEFAULT_DESCRIPTION</LocID>            <Text>Ghế cho phòng chờ và tiếp khách, nó cũng có thể được gắn vào bàn ăn.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_CHAIR_SMALL</LocID>                          <Text>Ghế đẩu</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OBJECT_CHAIR_SMALL_DESCRIPTION</LocID>              <Text>Ghế đẩu là chiếc ghế làm việc nhỏ, được sử dụng trong Phòng thí nghiệm STAT hoặc tùy chọn trong văn phòng.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OBJECT_CHAIR_SMALL_DESCRIPTION</LocID>              <Text>Ghế đẩu là chiếc ghế làm việc nhỏ, được sử dụng trong Phòng thí nghiệm STAT hoặc tùy chọn trong Phòng.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_CHAIR_OFFICE_01</LocID>                      <Text>Ghế văn phòng</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OBJECT_CHAIR_OFFICE_01_DESCRIPTION</LocID>          <Text>Ghế văn phòng là ghế làm việc cơ bản cho nhân viên, có thể gắn vào các bàn làm việc văn phòng.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OBJECT_CHAIR_OFFICE_01_DESCRIPTION</LocID>          <Text>Ghế văn phòng là ghế làm việc cơ bản cho nhân viên, có thể gắn vào các bàn làm việc Phòng.</Text>  </GameDBLocalizedString>
 
             <GameDBLocalizedString>      <LocID>OBJECT_FANCY_CHAIR</LocID>                          <Text>Ghế đặt biệt</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_FANCY_CHAIR_DESCRIPTION</LocID>              <Text>Ghế đặt biệt cho phòng chờ và tiếp khách, nó cũng có thể được gắn vào bàn ăn.</Text>  </GameDBLocalizedString>
@@ -306,13 +306,13 @@
             <GameDBLocalizedString>      <LocID>OBJECT_VENDING_MACHINE</LocID>                      <Text>Máy bán hàng tự động</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_VENDING_MACHINE_DESCRIPTION</LocID>          <Text>Máy bán hàng tự động cung cấp thực phẩm cho bệnh nhân và nhân viên, đồ ăn nhẹ bán cho bệnh nhân là một nguồn thu nhập.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_STANDING_LAMP</LocID>                        <Text>Đèn khám bệnh</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OBJECT_STANDING_LAMP_DESCRIPTION</LocID>            <Text>Đèn khám bệnh cho văn phòng và đơn vị kiểm tra.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OBJECT_STANDING_LAMP_DESCRIPTION</LocID>            <Text>Đèn khám bệnh cho Phòng và đơn vị kiểm tra.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_PC</LocID>                                   <Text>PC</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_PC_DESCRIPTION</LocID>                       <Text>PC tạo nơi làm việc cho một nhân viên, có thể đặt trên bàn làm việc hoặc bàn lễ tân.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_TV</LocID>                                   <Text>TV</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OBJECT_TV_DESCRIPTION</LocID>                       <Text>TV có thể được sử dụng trong phòng sinh hoạt chung hoặc văn phòng để giúp nhân viên giải trí trong thời gian rảnh rỗi.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OBJECT_TV_DESCRIPTION</LocID>                       <Text>TV có thể được sử dụng trong Phòng chung hoặc Phòng để giúp nhân viên giải trí trong thời gian rảnh rỗi.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_RADIO</LocID>                                <Text>Radio</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OBJECT_RADIO_DESCRIPTION</LocID>                    <Text>Radio có thể được sử dụng trong phòng sinh hoạt chung hoặc văn phòng để giúp nhân viên giải trí trong thời gian rảnh rỗi của họ.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OBJECT_RADIO_DESCRIPTION</LocID>                    <Text>Radio có thể được sử dụng trong Phòng chung hoặc Phòng để giúp nhân viên giải trí trong thời gian rảnh rỗi của họ.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_PRINTER</LocID>                              <Text>Máy in</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_PRINTER_DESCRIPTION</LocID>                  <Text>Máy in được sử dụng để in đơn thuốc. Hộp đựng giấy là một giải pháp thay thế rẻ hơn.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_PAPER_HOLDER</LocID>                         <Text>Hộp đựng giấy</Text>  </GameDBLocalizedString>
@@ -332,7 +332,7 @@
             <GameDBLocalizedString>      <LocID>OBJECT_TABLE_LAMP</LocID>                           <Text>Đèn bàn</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_TABLE_LAMP_DESCRIPTION</LocID>               <Text>Vật trang trí và nguồn sáng.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_EYE_TEST</LocID>                             <Text>Kiểm tra mắt</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OBJECT_EYE_TEST_DESCRIPTION</LocID>                 <Text>Thiết bị treo tường bắt buộc cho văn phòng.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OBJECT_EYE_TEST_DESCRIPTION</LocID>                 <Text>Thiết bị treo tường bắt buộc cho Phòng.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_XRAY_VIEWER</LocID>                          <Text>Xem X-quang</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_XRAY_VIEWER_DESCRIPTION</LocID>              <Text>Xem X-quang để kiểm tra hình ảnh X-quang.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_XRAY_CONTROL_PANEL</LocID>                   <Text>Bảng điều khiển X-quang</Text>  </GameDBLocalizedString>
@@ -562,7 +562,7 @@
             <GameDBLocalizedString>      <LocID>OBJECT_DECAL_ROOM_OPERATING</LocID>       			<Text>Phòng mổ</Text>  </GameDBLocalizedString>
             <!--UPDATED--><GameDBLocalizedString>      <LocID>OBJECT_DECAL_ROOM_NEURODIAGNOSTIC</LocID>       	<Text>Đơn vị Neuroexam</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_DECAL_ROOM_XRAY</LocID>       			    <Text>X-quang</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OBJECT_DECAL_ROOM_COMMON</LocID>       			    <Text>Phòng sinh hoạt chung</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OBJECT_DECAL_ROOM_COMMON</LocID>       			    <Text>Phòng chung</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_DECAL_INPATIENT_WARD</LocID>       			<Text>Đơn vị quan sát</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_DECAL_ROOM_ONCALL</LocID>       			    <Text>Phòng trực</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_DECAL_NURSES_STATION</LocID>       			<Text>Trạm y tá</Text>  </GameDBLocalizedString>
@@ -588,15 +588,15 @@
             <GameDBLocalizedString>      <LocID>COMPOSITE_OBJECT_DINING_TABLE</LocID>               <Text>Bàn ăn</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>COMPOSITE_OBJECT_DINING_TABLE_DESCRIPTION</LocID>   <Text>Ghế có thể gắn vào bàn ăn. Đây là nơi nhân viên dùng bữa.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>COMPOSITE_OBJECT_CAMP_BED</LocID>                   <Text>Bàn kiểm tra</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>COMPOSITE_OBJECT_CAMP_BED_DESCRIPTION</LocID>       <Text>Bàn kiểm tra là thiết bị bắt buộc đối với các văn phòng, đơn vị, hầu hết công việc kiểm tra đều được thực hiện tại đây.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>COMPOSITE_OBJECT_CAMP_BED_DESCRIPTION</LocID>       <Text>Bàn kiểm tra là thiết bị bắt buộc đối với các Phòng, đơn vị, hầu hết công việc kiểm tra đều được thực hiện tại đây.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>COMPOSITE_OBJECT_BENCH</LocID>                      <Text>Ghế dài</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>COMPOSITE_OBJECT_BENCH_DESCRIPTION</LocID>          <Text>Ghế dài cung cấp hai chỗ ngồi cho bệnh nhân trong phòng chờ hoặc tại quầy lễ tân.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>COMPOSITE_OBJECT_SOFA</LocID>                       <Text>Ghế sofa</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>COMPOSITE_OBJECT_SOFA_DESCRIPTION</LocID>           <Text>Ghế sofa có thể được đặt trong phòng sinh hoạt chung hoặc văn phòng và được nhân viên sử dụng để thư giãn, đọc sách và tận hưởng thời gian rảnh rỗi.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>COMPOSITE_OBJECT_SOFA_DESCRIPTION</LocID>           <Text>Ghế sofa có thể được đặt trong Phòng chung hoặc Phòng và được nhân viên sử dụng để thư giãn, đọc sách và tận hưởng thời gian rảnh rỗi.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>COMPOSITE_OBJECT_DRESSING_SCREEN</LocID>            <Text>Màn thay đồ</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>COMPOSITE_OBJECT_DRESSING_SCREEN_DESCRIPTION</LocID><Text>Trang trí.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>COMPOSITE_OBJECT_OFFICE_DESK</LocID>                <Text>Bàn văn phòng</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>COMPOSITE_OBJECT_OFFICE_DESK_DESCRIPTION</LocID>    <Text>Bàn văn phòng là thiết bị bắt buộc của các văn phòng và phòng. PC được đặt trên cùng tạo không gian làm việc cho một nhân viên.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>COMPOSITE_OBJECT_OFFICE_DESK</LocID>                <Text>Bàn </Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>COMPOSITE_OBJECT_OFFICE_DESK_DESCRIPTION</LocID>    <Text>Bàn là thiết bị bắt buộc của các Phòng và phòng. PC được đặt trên cùng tạo không gian làm việc cho một nhân viên.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>COMPOSITE_OBJECT_LAB_DESK</LocID>                   <Text>Bàn thí nghiệm</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>COMPOSITE_OBJECT_LAB_DESK_DESCRIPTION</LocID>       <Text>Bàn thí nghiệm là thiết bị bắt buộc của phòng thí nghiệm, được sử dụng làm hỗ trợ cho hầu hết các dụng cụ thí nghiệm.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>COMPOSITE_OBJECT_BASIC_BED</LocID>                  <Text>Giường bệnh</Text>  </GameDBLocalizedString>
@@ -607,8 +607,8 @@
             <GameDBLocalizedString>      <LocID>COMPOSITE_OBJECT_STRETCHER_DESCRIPTION</LocID>      <Text>Cáng dùng để vận chuyển bệnh nhân nằm bất động.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>COMPOSITE_OBJECT_OPERATING_TABLE</LocID>       		<Text>Bàn mổ</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>COMPOSITE_OBJECT_OPERATING_TABLE_DESCRIPTION</LocID><Text>Thiết bị bắt buộc cho tất cả Phòng mổ.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>COMPOSITE_OBJECT_OFFICE_DESK2</LocID>               <Text>Bàn văn phòng</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>COMPOSITE_OBJECT_OFFICE_DESK2_DESCRIPTION</LocID>   <Text>Bàn văn phòng là thiết bị bắt buộc cho các văn phòng và phòng khác nhau. PC được đặt trên cùng tạo không gian làm việc cho một nhân viên.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>COMPOSITE_OBJECT_OFFICE_DESK2</LocID>               <Text>Bàn Phòng</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>COMPOSITE_OBJECT_OFFICE_DESK2_DESCRIPTION</LocID>   <Text>Bàn Phòng là thiết bị bắt buộc cho các Phòng và phòng khác nhau. PC được đặt trên cùng tạo không gian làm việc cho một nhân viên.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>COMPOSITE_OBJECT_OUTSIDE_BENCH</LocID>              <Text>Băng ghế ngoài trời</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>COMPOSITE_OBJECT_OUTSIDE_BENCH_DESCRIPTION</LocID>  <Text>Trang trí ngoài trời.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>COMPOSITE_OBJECT_AMBULANCE_01</LocID>               <Text>Xe cấp cứu</Text>  </GameDBLocalizedString>
@@ -628,7 +628,7 @@
             <GameDBLocalizedString>      <LocID>PREFAB_ROOM_ANGIOGRAPHY_ABBR</LocID>                 <Text>Phòng CAG - 8 x 6</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>PREFAB_ROOM_CT_ABBR</LocID>                          <Text>Phòng CT - 10 x 6</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>PREFAB_ROOM_MRI_ABBR</LocID>                         <Text>Phòng MRI - 10 x 6</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>PREFAB_ROOM_COMMON_ROOM_ABBR</LocID>                 <Text>Phòng sinh hoạt chung - 8 x 6</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>PREFAB_ROOM_COMMON_ROOM_ABBR</LocID>                 <Text>Phòng chung - 8 x 6</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>PREFAB_ROOM_GP_OFFICE_LARGE_ABBR</LocID>             <Text>Phòng khám - 6 x 8</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>PREFAB_ROOM_GP_OFFICE_SMALL_ABBR</LocID>             <Text>Phòng khám - 6 x 6</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>PREFAB_ROOM_WAITING_ROOM_LARGE_ABBR</LocID>          <Text>Phòng chờ - 6 x 6</Text>  </GameDBLocalizedString>
@@ -695,10 +695,10 @@
             <GameDBLocalizedString>      <LocID>PREFAB_ROOM_OUTPATIENT_IM_OFFICE_SMALL_ABBR</LocID>  <Text>Phòng khoa nội - 6 x 6</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>PREFAB_ROOM_OUTPATIENT_OT_OFFICE_LARGE_ABBR</LocID>  <Text>Phòng chỉnh hình - 8 x 6</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>PREFAB_ROOM_OUTPATIENT_OT_OFFICE_SMALL_ABBR</LocID>  <Text>Phòng chỉnh hình - 6 x 6</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>PREFAB_ROOM_OUTPATIENT_CAR_OFFICE_LARGE_ABBR</LocID>  <Text>Văn phòng tim mạch - 8 x 6</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>PREFAB_ROOM_OUTPATIENT_CAR_OFFICE_SMALL_ABBR</LocID>  <Text>Văn phòng tim mạch - 6 x 6</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>PREFAB_ROOM_OUTPATIENT_NE_OFFICE_LARGE_ABBR</LocID>  <Text>Văn phòng thần kinh - 8 x 6</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>PREFAB_ROOM_OUTPATIENT_NE_OFFICE_SMALL_ABBR</LocID>  <Text>Văn phòng thần kinh - 6 x 6</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>PREFAB_ROOM_OUTPATIENT_CAR_OFFICE_LARGE_ABBR</LocID>  <Text>Phòng tim mạch - 8 x 6</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>PREFAB_ROOM_OUTPATIENT_CAR_OFFICE_SMALL_ABBR</LocID>  <Text>Phòng tim mạch - 6 x 6</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>PREFAB_ROOM_OUTPATIENT_NE_OFFICE_LARGE_ABBR</LocID>  <Text>Phòng thần kinh - 8 x 6</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>PREFAB_ROOM_OUTPATIENT_NE_OFFICE_SMALL_ABBR</LocID>  <Text>Phòng thần kinh - 6 x 6</Text>  </GameDBLocalizedString>
 
             <GameDBLocalizedString>      <LocID>PREFAB_ROOM_INPATIENT_GS_OFFICE_ABBR</LocID>         <Text>Phòng chẩn đoán - 8 x 6</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>PREFAB_ROOM_INPATIENT_GS_OFFICE_SMALL_ABBR</LocID>   <Text>Phòng chẩn đoán - 6 x 6</Text>  </GameDBLocalizedString>
@@ -748,8 +748,8 @@
             <GameDBLocalizedString>      <LocID>ALLOWED_NOT_ACCESSIBLE</LocID>                      <Text>có thể được đặt ở đây, nhưng sẽ không sử dụng được.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>ALLOWED_ADDS_FOUNDATIONS</LocID>                    <Text>có thể được đặt ở đây, với chi phí bổ sung cho nền móng.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>NOT_ALLOWED_AT_DEPARTMENT</LocID>                   <Text>không được phép ở bộ phận hoạt động.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>NOT_ALLOWED_LOCKED_INSURANCE</LocID>                <Text>vẫn chưa được mở khóa.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>NOT_ALLOWED_LIMIT_REACHED</LocID>                   <Text>đã đạt đến giới hạn tổng thể.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>NOT_ALLOWED_LOCKED_INSURANCE</LocID>                <Text>chưa được mở khóa.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>NOT_ALLOWED_LIMIT_REACHED</LocID>                   <Text>đã đạt đến giới hạn.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>NOT_ALLOWED_ROOF</LocID>                            <Text>không được phép lên mái nhà.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>NOT_ALLOWED_TOO_CLOSE</LocID>                       <Text>không thể đặt cái này gần tường.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>NOT_ALLOWED_IN_MIDAIR</LocID>                       <Text>không thể được đặt giữa không trung.</Text>  </GameDBLocalizedString>
@@ -771,7 +771,7 @@
 
             <!-- ============= NEW, NEED TRANSLATING ================== -->
             <GameDBLocalizedString>      <LocID>OBJECT_DESK_FLOWER</LocID>                 			<Text>Hoa</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OBJECT_DESK_FLOWER_DESCRIPTION</LocID>     			<Text>Trang trí hoa văn phòng và phòng chờ.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OBJECT_DESK_FLOWER_DESCRIPTION</LocID>     			<Text>Trang trí hoa Phòng và phòng chờ.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_COFFEE_MACHINE</LocID>                 		<Text>Máy pha cà phê</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_COFFEE_MACHINE_DESCRIPTION</LocID>     		<Text>Máy pha cà phê, giảm cảm giác đói và kiệt sức.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_PALM</LocID>                 				<Text>Cọ</Text>  </GameDBLocalizedString>
