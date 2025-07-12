@@ -151,9 +151,9 @@
             <GameDBLocalizedString>      <LocID>MANAGEMENT_HEADING_SATISFACTION_PATIENTS</LocID> <Text>Bệnh nhân hài lòng</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>MANAGEMENT_HEADING_STATISTICS_HISTORY</LocID>    <Text>Lịch sử thống kê</Text>  </GameDBLocalizedString>
             
-            <GameDBLocalizedString>      <LocID>MANAGEMENT_HEADING_WORKLOAD_DAY</LocID>          <Text>Khối lượng công việc ngày</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>MANAGEMENT_HEADING_WORKLOAD_NIGHT</LocID>        <Text>Khối lượng công việc đêm</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>MANAGEMENT_HEADING_WORKLOAD_STAFF</LocID>        <Text>Khối lượng công việc hiện tại của nhân viên</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>MANAGEMENT_HEADING_WORKLOAD_DAY</LocID>          <Text>Workload ngày</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>MANAGEMENT_HEADING_WORKLOAD_NIGHT</LocID>        <Text>Workload đêm</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>MANAGEMENT_HEADING_WORKLOAD_STAFF</LocID>        <Text>Workload hiện tại của nhân viên</Text>  </GameDBLocalizedString>
 
             <GameDBLocalizedString>      <LocID>WORKLOAD_ON_CALL_ROOM</LocID>                    <Text>Phòng đang gọi</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>WORKLOAD_NURSES_STATION</LocID>                  <Text>Trạm y tá</Text>  </GameDBLocalizedString>
@@ -327,7 +327,7 @@
             <GameDBLocalizedString>      <LocID>INGAME_TUTORIAL_INSURANCE_CONTRACT_1_1</LocID>          <Text><![CDATA[Tại đây bạn có thể xem tất cả công ty bảo hiểm có thể <b><i>ký hợp đồng</i></b>.\n\nMẹo: có giới hạn tối đa 3 hợp đồng cùng một lúc.]]></Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>INGAME_TUTORIAL_INSURANCE_INFO_1_1</LocID>              <Text><![CDATA[Mỗi công ty cũng cho bạn biết có bao nhiêu <b><i>bệnh nhân</i></b> họ gửi mỗi ngày.\n\nMẹo: bạn có thể tăng con số đó bằng cách hoàn thành mục tiêu của công ty.]]></Text>  </GameDBLocalizedString>
 
-            <GameDBLocalizedString>      <LocID>INGAME_TUTORIAL_WORKLOAD_STATS_1_1</LocID>           	<Text><![CDATA[Trong một số phòng nhất định, bạn có thể thấy <b><i>giá trị khối lượng công việc</i></b>, đại diện cho công việc trong 24 giờ qua. Không có nghĩa là nhân viên trong phòng này không có gì để làm, quan trọng có nghĩa là nhân viên của bạn đang quá tải.\n\nMẹo: tóm tắt khối lượng công việc cho từng bộ phận có sẵn trong thống kê bộ phận.]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>INGAME_TUTORIAL_WORKLOAD_STATS_1_1</LocID>           	<Text><![CDATA[Trong một số phòng nhất định, bạn có thể thấy <b><i>giá trị Workload</i></b>, đại diện cho công việc trong 24 giờ qua. Không có nghĩa là nhân viên trong phòng này không có gì để làm, quan trọng có nghĩa là nhân viên của bạn đang quá tải.\n\nMẹo: tóm tắt Workload cho từng bộ phận có sẵn trong thống kê bộ phận.]]></Text>  </GameDBLocalizedString>
 
 
             <!--==================-->
