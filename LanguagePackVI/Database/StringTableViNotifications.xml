@@ -108,14 +108,14 @@
             <GameDBLocalizedString>      <LocID>NOTIF_FAVORITE_PATIENT_NEW_SYMPTOM_APPEARED_TEXT</LocID><Text>Triệu chứng ẩn mới xuất hiện trên Bệnh nhân ★, nó có thể rất nguy hiểm.</Text>  </GameDBLocalizedString>
 
             <!-- TODO after beta: levels and first collapse -->
-            <GameDBLocalizedString>      <LocID>NOTIF_PATIENT_COLLAPSING</LocID>                <Text>Bệnh nhân đang đột quỵ.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>NOTIF_PATIENT_COLLAPSING_TEXT</LocID>           <Text>Bệnh nhân đang đột quỵ! Nhân viên của bạn sẽ cố gắng hết sức để giữ cho họ sống sót.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>NOTIF_PATIENT_COLLAPSING</LocID>                <Text>Bệnh nhân đang hấp hối.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>NOTIF_PATIENT_COLLAPSING_TEXT</LocID>           <Text>Bệnh nhân đang hấp hối! Nhân viên của bạn sẽ cố gắng hết sức để giữ cho họ sống sót.</Text>  </GameDBLocalizedString>
             
-            <GameDBLocalizedString>      <LocID>NOTIF_FAVORITE_PATIENT_COLLAPSING</LocID>       <Text>Bệnh nhân ★ đang đột quỵ.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>NOTIF_FAVORITE_PATIENT_COLLAPSING_TEXT</LocID>  <Text>Bệnh nhân ★ đang đột quỵ! Nhân viên của bạn sẽ cố gắng hết sức để giữ cho họ sống sót.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>NOTIF_FAVORITE_PATIENT_COLLAPSING</LocID>       <Text>Bệnh nhân ★ đang hấp hối.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>NOTIF_FAVORITE_PATIENT_COLLAPSING_TEXT</LocID>  <Text>Bệnh nhân ★ đang hấp hối! Nhân viên của bạn sẽ cố gắng hết sức để giữ cho họ sống sót.</Text>  </GameDBLocalizedString>
 
-            <GameDBLocalizedString>      <LocID>NOTIF_MONITORED_PATIENT_COLLAPSING</LocID>      <Text>Bệnh nhân được giám sát đang đột quỵ.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>NOTIF_MONITORED_PATIENT_COLLAPSING_TEXT</LocID><Text>Bệnh nhân được giám sát đang đột quỵ! Nhân viên của bạn sẽ cố gắng hết sức để giữ cho họ sống sót.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>NOTIF_MONITORED_PATIENT_COLLAPSING</LocID>      <Text>Bệnh nhân được giám sát đang hấp hối.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>NOTIF_MONITORED_PATIENT_COLLAPSING_TEXT</LocID><Text>Bệnh nhân được giám sát đang hấp hối! Nhân viên của bạn sẽ cố gắng hết sức để giữ cho họ sống sót.</Text>  </GameDBLocalizedString>
 
             <GameDBLocalizedString>      <LocID>NOTIF_PLAYERS_PATIENT_HIDDEN_SYMPTOM_FOUND</LocID><Text>Triệu chứng ẩn mới xuất hiện trên bệnh nhân của bạn.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>NOTIF_PLAYERS_PATIENT_HIDDEN_SYMPTOM_FOUND_TEXT</LocID><Text>Y tá đã tìm thấy {1} triệu chứng tiềm ẩn mới trên bệnh nhân của bạn, nó có thể rất nguy hiểm.</Text>  </GameDBLocalizedString>
@@ -144,10 +144,10 @@
             <GameDBLocalizedString>      <LocID>NOTIF_LONG_WAIT_FOR_TREATMENT</LocID>        <Text>Chờ điều trị lâu!</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>NOTIF_LONG_WAIT_FOR_TREATMENT_TEXT</LocID>   <Text><![CDATA[Giường cần thiết để điều trị (<i>{1}</i>) có người hoặc nhân viên của bạn bận trong thời gian dài.]]></Text>  </GameDBLocalizedString>
             
-            <GameDBLocalizedString>      <LocID>NOTIF_LONG_WAIT_COLLAPSE</LocID>             <Text>Bệnh nhân đột quỵ đang chờ giường!</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>NOTIF_LONG_WAIT_COLLAPSE</LocID>             <Text>Bệnh nhân hấp hối đang chờ giường!</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>NOTIF_LONG_WAIT_COLLAPSE_TEXT</LocID>        <Text><![CDATA[Không có giường trống cho nhập viện bắt buộc: <i>{1}</i>.]]></Text>  </GameDBLocalizedString>
             
-            <GameDBLocalizedString>      <LocID>NOTIF_NO_HOSPITALIZATION_COLLAPSE</LocID>    <Text>Bệnh nhân đột quỵ không thể nhập viện!</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>NOTIF_NO_HOSPITALIZATION_COLLAPSE</LocID>    <Text>Bệnh nhân hấp hối không thể nhập viện!</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>NOTIF_NO_HOSPITALIZATION_COLLAPSE_TEXT</LocID>        <Text><![CDATA[Nhập viện bắt buộc không khả dụng: <i>{1}</i>.]]></Text>  </GameDBLocalizedString>
 
             <GameDBLocalizedString>      <LocID>NOTIF_LONG_WAIT_FOR_TRANSPORT</LocID>        <Text>Chờ di chuyển lâu!</Text>  </GameDBLocalizedString>
@@ -185,8 +185,8 @@
             <GameDBLocalizedString>      <LocID>NOTIF_NO_TREATMENT_TAKEN_AWAY</LocID>        <Text>Bệnh nhân đang được chuyển đến bệnh viện khác.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>NOTIF_NO_TREATMENT_TAKEN_AWAY_TEXT</LocID>   <Text>Bệnh nhân không điều trị được đang được chuyển đến bệnh viện khác.</Text>  </GameDBLocalizedString>
 
-            <GameDBLocalizedString>      <LocID>NOTIF_COLLAPSE_TAKEN_AWAY</LocID>            <Text>Bệnh nhân đột quỵ đang được chuyển đến bệnh viện khác.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>NOTIF_COLLAPSE_TAKEN_AWAY_TEXT</LocID>       <Text>Bệnh nhân đột quỵ đã đợi quá lâu và đang được chuyển đến bệnh viện khác.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>NOTIF_COLLAPSE_TAKEN_AWAY</LocID>            <Text>Bệnh nhân hấp hối đang được chuyển đến bệnh viện khác.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>NOTIF_COLLAPSE_TAKEN_AWAY_TEXT</LocID>       <Text>Bệnh nhân hấp hối đã đợi quá lâu và đang được chuyển đến bệnh viện khác.</Text>  </GameDBLocalizedString>
 
             <GameDBLocalizedString>      <LocID>NOTIF_ICU_HOSPITALIZATION_OVER</LocID>       <Text>Nhập viện ICU đã kết thúc.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>NOTIF_ICU_HOSPITALIZATION_OVER_TEXT</LocID>  <Text>Bệnh nhân được kiểm soát đã ổn định và hiện đang được chuyển đến khoa phụ trách.</Text>  </GameDBLocalizedString>
