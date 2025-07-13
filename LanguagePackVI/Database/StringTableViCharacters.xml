@@ -74,10 +74,10 @@
 
             <!--  -->
             <GameDBLocalizedString>      <LocID>PERK_PLEASANT</LocID>                   <Text>Hài lòng</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>PERK_PLEASANT_DESCRIPTION</LocID>       <Text>Cung cấp sửa đổi "nhân viên tốt" sau khi tương tác với bệnh nhân.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>PERK_PLEASANT_DESCRIPTION</LocID>       <Text>Cho hiệu ứng "nhân viên tốt" sau khi tương tác với bệnh nhân.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>PERK_UNPLEASANT</LocID>                 <Text>Khó chịu</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>PERK_UNPLEASANT_DESCRIPTION</LocID>     <Text>Cung cấp bổ ngữ "nhân viên xấu" sau khi tương tác với bệnh nhân.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>PERK_CLEAN_FEET</LocID>                 <Text>Làm sạch chân</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>PERK_UNPLEASANT_DESCRIPTION</LocID>     <Text>Cho hiệu ứng "nhân viên xấu" sau khi tương tác với bệnh nhân.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>PERK_CLEAN_FEET</LocID>                 <Text>Sạch sẽ</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>PERK_CLEAN_FEET_DESCRIPTION</LocID>     <Text>Giày rất sạch. Không làm bẩn sàn nhà.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>PERK_HARD_WORKER</LocID>                <Text>Chăm chỉ</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>PERK_HARD_WORKER_DESCRIPTION</LocID>    <Text>Không cần nghỉ.</Text>  </GameDBLocalizedString>
@@ -124,7 +124,7 @@
             <GameDBLocalizedString>      <LocID>NEED_HUNGER_PATIENTS</LocID>            <Text>Đói</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>NEED_HUNGER_PATIENTS_DESC</LocID>       <Text>Bệnh nhân cần được tiếp cận với nước hoặc đồ ăn nhẹ nếu họ phải chờ đợi lâu.</Text>  </GameDBLocalizedString>
             
-            <GameDBLocalizedString>      <LocID>NEED_BLADDER</LocID>                    <Text>Bàng quang</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>NEED_BLADDER</LocID>                    <Text>Cần ẻ</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>NEED_BLADDER_DESC</LocID>               <Text>Phòng vệ sinh nên có ở mỗi tầng.</Text>  </GameDBLocalizedString>
             
             <GameDBLocalizedString>      <LocID>NEED_DISCOMFORT</LocID>                 <Text>Khó chịu</Text>  </GameDBLocalizedString>
@@ -241,8 +241,8 @@
             <GameDBLocalizedString>      <LocID>BlockedByAmbiguousResults</LocID>                   <Text>Kết quả mơ hồ</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>BlockedByNoTreatment</LocID>                        <Text>Không thể điều trị</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>BlockedByComplicatedDiagnosis</LocID>               <Text>Chẩn đoán phức tạp</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>Leaving</LocID>                                     <Text>Rời đi</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>Left</LocID>                                        <Text>Rời khỏi</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>Leaving</LocID>                                     <Text>Đi về</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>Left</LocID>                                        <Text>Bỏ đi</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OverriddenByHospitalization</LocID>                 <Text>Nhập viện</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>CallOnCallRoomDoctor</LocID>                        <Text>Gọi bác sĩ</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>WaitForOnCallRoomDoctor</LocID>                     <Text>Chờ bác sĩ</Text>  </GameDBLocalizedString>
@@ -252,7 +252,7 @@
             <GameDBLocalizedString>      <LocID>GoingToCollapse</LocID>                             <Text>Không có cảm giác... Quá tốt...</Text>  </GameDBLocalizedString>
 
             <!-- Hospitalization states -->
-            <GameDBLocalizedString>      <LocID>HOSPITALIZED_Idle</LocID>                           <Text>Nhàn rỗi</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>HOSPITALIZED_Idle</LocID>                           <Text>Rảnh rổi</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>HOSPITALIZED_GoingToBed</LocID>                     <Text>đi ngủ</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>HOSPITALIZED_InBed</LocID>                          <Text>nhàn rỗi trên giường</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>HOSPITALIZED_FulfillingNeeds</LocID>                <Text>Đáp ứng nhu cầu</Text>  </GameDBLocalizedString>
@@ -293,13 +293,13 @@
             <GameDBLocalizedString>      <LocID>HOSPITALIZED_Dead</LocID>                           <Text>chết</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DEAD</LocID>                                        <Text>Chết</Text>  </GameDBLocalizedString>
 
-            <!-- UPDATED --> <GameDBLocalizedString>      <LocID>EMPL_ROLE_EXM_TRT</LocID>          <Text>Chẩn đoán / quan sát</Text>  </GameDBLocalizedString>
-            <!-- UPDATED --> <GameDBLocalizedString>      <LocID>EMPL_ROLE_SURGERY</LocID>          <Text>Phẫu thuật / chấn thương</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>EMPL_ROLE_SURGERY_ASSIST</LocID>                    <Text>Hỗ trợ phẫu thuật</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>EMPL_ROLE_SURGERY_ANESTHESIOLOGY</LocID>            <Text>Gây mê tại phẫu thuật</Text>  </GameDBLocalizedString>
+            <!-- UPDATED --> <GameDBLocalizedString>      <LocID>EMPL_ROLE_EXM_TRT</LocID>          <Text>Chẩn đoán</Text>  </GameDBLocalizedString>
+            <!-- UPDATED --> <GameDBLocalizedString>      <LocID>EMPL_ROLE_SURGERY</LocID>          <Text>Phẫu thuật</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>EMPL_ROLE_SURGERY_ASSIST</LocID>                    <Text>Hỗ trợ</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>EMPL_ROLE_SURGERY_ANESTHESIOLOGY</LocID>            <Text>Gây mê</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>EMPL_ROLE_PATIENT_CARE</LocID>                      <Text>Chăm sóc bệnh nhân</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>EMPL_ROLE_PATIENT_TRANSFERS</LocID>                 <Text>Chuyển bệnh nhân</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>EMPL_ROLE_SURGERY_NURSE</LocID>                     <Text>Y tá - phẫu thuật</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>EMPL_ROLE_SURGERY_NURSE</LocID>                     <Text>Y tá phẫu thuật</Text>  </GameDBLocalizedString>
             <!-- UPDATED 2018_11_26--> <GameDBLocalizedString>      <LocID>EMPL_ROLE_LAB</LocID>    <Text>Bệnh nhân phòng khám</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>EMPL_ROLE_CLEANING</LocID>                          <Text>Dọn dẹp</Text>  </GameDBLocalizedString>
 
