@@ -164,7 +164,7 @@
             <GameDBLocalizedString>      <LocID>ROOM_TYPE_ANGIOGRAPHY_ROOM</LocID>                  <Text>Phòng CAG</Text>   </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>ROOM_TYPE_ANGIOGRAPHY_ROOM_DESCRIPTION</LocID>      <Text>Chụp động mạch vành là một kỹ thuật y tế còn được gọi là chụp động mạch giúp hình dung các mạch máu và các cơ quan trong cơ thể.\n\nTối thiểu. Yêu cầu nhân viên: \n1x Nhà công nghệ - Bác sĩ X-quang</Text></GameDBLocalizedString>
 
-            <GameDBLocalizedString>      <LocID>ROOM_TYPE_ER_OBSERVATION_ROOM</LocID>               <Text>Phòng quan sát</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ROOM_TYPE_ER_OBSERVATION_ROOM</LocID>               <Text>Phòng theo dõi</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>ROOM_TYPE_ER_OBSERVATION_ROOM_DESCRIPTION</LocID>   <Text>Nhiều cuộc kiểm tra khác nhau có thể được thực hiện tại đây, Bệnh nhân được giám sát y tế thích hợp.\n\nTối thiểu. Yêu cầu nhân viên: \n1x Bác sĩ \n(Nhân sự cơ bản tại Phòng trực)</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>ROOM_TYPE_WC</LocID>      			                <Text>Phòng vệ sinh</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>ROOM_TYPE_WC_DESCRIPTION</LocID>      			    <Text>Căn phòng mà ngay cả nữ hoàng cũng phải đi bộ.\n\nTối thiểu. Yêu cầu nhân viên: \nKhông</Text>  </GameDBLocalizedString>
