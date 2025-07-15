@@ -10,24 +10,24 @@
 
         <!-- Note: feel free to rearrange any sentences with the parameter {1} so the word order makes sense -->
         <LocalizedStrings>
-            <GameDBLocalizedString>      <LocID>DLC_ADMIN_PATHOLOGY</LocID>             <Text>DLC dịch vụ bệnh viện</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DLC_ADMIN_PATHOLOGY</LocID>             <Text>DLC dịch vụ</Text>  </GameDBLocalizedString>
             
             <!-- RELATED FILE: StringTable[Language]Characters.xml -->
             <!-- Satisfaction modifiers -->
-            <GameDBLocalizedString>      <LocID>DLC_PHARMACY_VISITED</LocID>            <Text>đã ghé thăm hiệu thuốc</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DLC_PHARMACY_LONG_WAIT</LocID>          <Text>đợi hiệu thuốc lâu</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DLC_GOT_GIFT</LocID>                    <Text>có quà tặng</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DLC_DID_NOT_GET_GIFT</LocID>            <Text>không nhận được quà tặng</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DLC_VISIT_DID_NOT_ARRIVE</LocID>        <Text>khách đã không đến (phòng chờ đã đầy)</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DLC_HAD_VISITOR</LocID>                 <Text>đã có chuyến thăm</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DLC_PHARMACY_VISITED</LocID>            <Text>đã ghé hiệu thuốc</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DLC_PHARMACY_LONG_WAIT</LocID>          <Text>đợi mua thuốc lâu</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DLC_GOT_GIFT</LocID>                    <Text>được tặng quà</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DLC_DID_NOT_GET_GIFT</LocID>            <Text>không được tặng quà</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DLC_VISIT_DID_NOT_ARRIVE</LocID>        <Text>khách đã không đến (phòng chờ đầy)</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DLC_HAD_VISITOR</LocID>                 <Text>đã có khách ghé thăm</Text>  </GameDBLocalizedString>
 
             <!-- Visitor states -->
-            <GameDBLocalizedString>      <LocID>VISITOR_STATE_Spawned</LocID>           <Text>Sinh sản</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>VISITOR_STATE_Spawned</LocID>           <Text>Tạo ra</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>VISITOR_STATE_GoingToGiftShop</LocID>   <Text>Đi đến cửa hàng quà tặng</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>VISITOR_STATE_WaitingInGiftShop</LocID> <Text>Đang đợi trong cửa hàng quà tặng</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>VISITOR_STATE_BuyingGift</LocID>        <Text>Mua quà tặng</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>VISITOR_STATE_GoingToLounge</LocID>     <Text>Đi đến phòng chờ</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>VISITOR_STATE_WaitingInLounge</LocID>   <Text>Chờ đợi trong phòng chờ</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>VISITOR_STATE_WaitingInLounge</LocID>   <Text>Đợi trong phòng chờ</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>VISITOR_STATE_Visiting</LocID>          <Text>Tham quan</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>VISITOR_STATE_Leaving</LocID>           <Text>Rời đi sau chuyến thăm quan</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>VISITOR_STATE_Idle</LocID>              <Text>Rời đi</Text>  </GameDBLocalizedString>
@@ -36,34 +36,34 @@
 
             <!-- Patient states -->
             <GameDBLocalizedString>      <LocID>GoingToPharmacy</LocID>                 <Text>Đi đến hiệu thuốc</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>GoingToPharmacyChair</LocID>            <Text>Đi đến ghế trong hiệu thuốc</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>GoingToPharmacyChair</LocID>            <Text>Tìm ghế trong hiệu thuốc</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>WaitingSittingInPharmacy</LocID>        <Text>Chờ trong hiệu thuốc</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>WaitingStandingInPharmacy</LocID>       <Text>Chờ trong hiệu thuốc</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>BuyingMedicine</LocID>                  <Text>Mua thuốc</Text>  </GameDBLocalizedString>
             
-            <GameDBLocalizedString>      <LocID>DEAD</LocID>                                        <Text>Đã chết</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DEAD</LocID>                                        <Text>TẠCH</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>HOSPITALIZED_OverridenByVisit</LocID>               <Text>Có chuyến thăm quan</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>HOSPITALIZED_BeingTransportedToMorgue</LocID>       <Text>vận chuyển đến nhà xác</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>HOSPITALIZED_BeingTransportedToMorgue</LocID>       <Text>chuyển đến nhà xác</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>HOSPITALIZED_WaitingForMorgueBed</LocID>            <Text>chờ giường nhà xác</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>HOSPITALIZED_WaitingForAutopsy</LocID>              <Text>chờ khám nghiệm tử thi</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>HOSPITALIZED_BeingTransportedToAutopsy</LocID>      <Text>vận chuyển đến khám nghiệm tử thi</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>HOSPITALIZED_BeingTransportedToAutopsy</LocID>      <Text>vận chuyển đến phòng tử thi</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>HOSPITALIZED_HavingAutopsy</LocID>                  <Text>khám nghiệm tử thi</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>HOSPITALIZED_WaitingToBeDisposed</LocID>            <Text>thi thể có thể được gửi đến dịch vụ tang lễ</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>HOSPITALIZED_WaitingToBeDisposed</LocID>            <Text>chờ mai táng</Text>  </GameDBLocalizedString>
 
             <!-- New doctor states -->
-            <GameDBLocalizedString>      <LocID>DOCTOR_STATE_Training</LocID>                       <Text>Đang đào tạo</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DOCTOR_STATE_Training</LocID>                       <Text>Đang training</Text>  </GameDBLocalizedString>
                                                                                                     
             <!-- New nurse states -->                                                               
-            <GameDBLocalizedString>      <LocID>NURSE_STATE_Training</LocID>                        <Text>Đang đào tạo</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>NURSE_STATE_Training</LocID>                        <Text>Đang training</Text>  </GameDBLocalizedString>
 
             <!-- New technologist states -->
-            <GameDBLocalizedString>      <LocID>TECHNOLOGIST_STATE_Training</LocID>                 <Text>Đang đào tạo</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TECHNOLOGIST_STATE_Training</LocID>                 <Text>Đang training</Text>  </GameDBLocalizedString>
 
             <!-- New janitor states -->                                                             
             <GameDBLocalizedString>      <LocID>JANITOR_STATE_AdminIdle</LocID>                     <Text>Quản lý công nhân vệ sinh</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>JANITOR_STATE_GiftShopIdle</LocID>                  <Text>Quản lý cửa hàng quà tặng</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>JANITOR_STATE_OverridenByProcedureScript</LocID>    <Text>Đang thực hiện:</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>JANITOR_STATE_Training</LocID>                      <Text>Đang đào tạo</Text>  </GameDBLocalizedString>            
+            <GameDBLocalizedString>      <LocID>JANITOR_STATE_Training</LocID>                      <Text>Đang training</Text>  </GameDBLocalizedString>            
 
             <!-- Unlearning negative perks texts -->
             <GameDBLocalizedString>      <LocID>PERK_SLOW_LEARNER_LOST_DESCRIPTION</LocID>  <Text>Khả năng học hỏi của nhân viên được cải thiện!</Text></GameDBLocalizedString>
@@ -76,40 +76,40 @@
             <GameDBLocalizedString>      <LocID>PERK_UNPLEASANT_LOST_DESCRIPTION</LocID>    <Text>Thái độ của nhân viên được cải thiện và sẽ không còn khó chịu với bệnh nhân!</Text></GameDBLocalizedString>
 
             <!-- New role description for doctor on Pathology-->
-            <GameDBLocalizedString>      <LocID>EMPL_ROLE_EXM_TRT_PATHOLOGY</LocID>         <Text>Bệnh lý học</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>EMPL_ROLE_EXM_TRT_PATHOLOGY</LocID>         <Text>Giải phẫu bệnh học</Text>  </GameDBLocalizedString>
                                                                                             
             <!-- RELATED FILE: StringTable[Language]Notifications.xml -->                   
             <GameDBLocalizedString>      <LocID>NOTIF_LONG_WAIT_IN_PHARMACY</LocID>         <Text>Đợi lâu ở hiệu thuốc</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>NOTIF_LONG_WAIT_IN_PHARMACY_TEXT</LocID>    <Text>Nhanh lên, một bệnh nhân đã chờ đợi quá lâu để mua thuốc. Kiểm tra hiệu thuốc của bạn, bệnh nhân sẽ rời đi sớm.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>NOTIF_LONG_WAIT_IN_PHARMACY_TEXT</LocID>    <Text>Bệnh nhân đã chờ đợi quá lâu để mua thuốc. Kiểm tra hiệu thuốc của bạn, bệnh nhân sẽ rời đi sớm.</Text>  </GameDBLocalizedString>
                                                                                             
             <GameDBLocalizedString>      <LocID>NOTIF_LEAVING_PHARMACY</LocID>              <Text>Rời khỏi hiệu thuốc</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>NOTIF_LEAVING_PHARMACY_TEXT</LocID>         <Text>Bệnh nhân đã đợi quá lâu ở hiệu thuốc và sẽ mua thuốc được kê ở nơi khác.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>NOTIF_LEAVING_PHARMACY_TEXT</LocID>         <Text>Bệnh nhân đã đợi quá lâu ở hiệu thuốc và sẽ mua thuốc ở nơi khác.</Text>  </GameDBLocalizedString>
                                                                                             
             <GameDBLocalizedString>      <LocID>NOTIF_LOUNGE_FULL</LocID>                   <Text>Phòng chờ đã đầy</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>NOTIF_LOUNGE_FULL_TEXT</LocID>              <Text>Phòng chờ tại {1} đã hết chỗ và bệnh nhân không thể tiếp khách của họ. Hãy thêm ghế cho khách.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>NOTIF_LONG_WAIT_IN_GIFT_SHOP</LocID>        <Text>Chờ đợi lâu để nhận quà</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>NOTIF_LONG_WAIT_IN_GIFT_SHOP_TEXT</LocID>   <Text>Du khách đã đợi quá lâu trong cửa hàng quà tặng. Hãy thuê nhiều Người bán hơn.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>NOTIF_LONG_WAIT_IN_GIFT_SHOP_TEXT</LocID>   <Text>Du khách đã đợi quá lâu trong cửa hàng quà tặng. Hãy thuê nhiều người bán hơn.</Text>  </GameDBLocalizedString>
                                                                                             
             <GameDBLocalizedString>      <LocID>NOTIF_GLOBAL_EVENT</LocID>                  <Text>Tin tức hàng ngày</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>NOTIF_GLOBAL_EVENT_TEXT</LocID>             <Text>{1}</Text>  </GameDBLocalizedString>
                                                                                             
             <GameDBLocalizedString>      <LocID>NOTIF_GLOBAL_EVENT_ENDED</LocID>            <Text>Tin tức hàng ngày</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>NOTIF_GLOBAL_EVENT_ENDED_TEXT</LocID>       <Text>Số lượng bệnh nhân và thanh toán bảo hiểm trở lại bình thường.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>NOTIF_GLOBAL_EVENT_ENDED_TEXT</LocID>       <Text>Số lượng bệnh nhân và tiền bảo hiểm trở lại bình thường.</Text>  </GameDBLocalizedString>
 
             <GameDBLocalizedString>      <LocID>NOTIF_LONG_WAIT_FOR_MORGUE_TABLE</LocID>    <Text>Bàn nhà xác đợi lâu!</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>NOTIF_LONG_WAIT_FOR_MORGUE_TABLE_TEXT</LocID><Text>Không có bàn nhà xác cho bệnh nhân vừa qua đời.</Text>  </GameDBLocalizedString>
             
-            <GameDBLocalizedString>      <LocID>NOTIF_PATIENT_ON_PATHOLOGY</LocID>          <Text>Bệnh nhân mới tại bệnh lý!</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>NOTIF_PATIENT_ON_PATHOLOGY</LocID>          <Text>Bệnh nhân mới tại Giải phẫu bệnh!</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>NOTIF_PATIENT_ON_PATHOLOGY_TEXT</LocID>     <Text>Một bệnh nhân tử vong đã được chuyển sang khoa giải phẫu bệnh. Bạn có thể gửi thi thể đến dịch vụ tang lễ hoặc thực hiện khám nghiệm tử thi để tìm hiểu điều gì đã xảy ra, phát hiện các triệu chứng còn lại và nhận điểm kinh nghiệm và tiền trong quá trình này.</Text>  </GameDBLocalizedString>
                                                                                             
             <GameDBLocalizedString>      <LocID>NOTIF_AUTOPSY_FINISHED</LocID>              <Text>Khám nghiệm tử thi xong!</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>NOTIF_AUTOPSY_FINISHED_TEXT</LocID>         <Text>Khám nghiệm tử thi đã kết thúc. Bây giờ bạn có thể đưa thi thể đến các dịch vụ tang lễ bằng một nút trong thẻ bệnh nhân.</Text>  </GameDBLocalizedString>
                                                                                             
-            <GameDBLocalizedString>      <LocID>NOTIF_TRAINING_FINISHED</LocID>             <Text>Huấn luyện đã kết thúc!</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>NOTIF_TRAINING_FINISHED_TEXT</LocID>        <Text>Nhân viên đã hoàn thành khóa đào tạo về kỹ năng {1}, tăng cấp độ lên {2}%. {3}</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>NOTIF_TRAINING_FINISHED</LocID>             <Text>Training đã kết thúc!</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>NOTIF_TRAINING_FINISHED_TEXT</LocID>        <Text>Nhân viên đã hoàn thành khóa training về kỹ năng {1}, tăng cấp độ lên {2}%. {3}</Text>  </GameDBLocalizedString>
                                                                                             
             <GameDBLocalizedString>      <LocID>NOTIF_TRAINING_FULL</LocID>                 <Text>Phòng học đã đầy!</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>NOTIF_TRAINING_FULL_TEXT</LocID>            <Text>Không thể đào tạo nhân viên trong {1} do thiếu chỗ ngồi rãnh trong phòng nghiên cứu. Đào tạo theo lịch trình đã bị hủy bỏ.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>NOTIF_TRAINING_FULL_TEXT</LocID>            <Text>Không thể training nhân viên trong {1} do thiếu chỗ ngồi rãnh trong phòng nghiên cứu. training theo lịch trình đã bị hủy bỏ.</Text>  </GameDBLocalizedString>
                                                                                             
             <GameDBLocalizedString>      <LocID>NOTIF_NOT_PHARMACY_FULL</LocID>             <Text>Hiệu thuốc quá nhỏ!</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>NOTIF_NOT_PHARMACY_FULL_TEXT</LocID>        <Text>Có quá nhiều bệnh nhân đang ở trong hoặc trên đường đến hiệu thuốc, một số sẽ phải lấy thuốc ở một nơi khác. Hãy thử mở rộng nó một chút.</Text>  </GameDBLocalizedString>
@@ -119,19 +119,19 @@
 
             <!-- Note for translators: there's limited space in the UI for the names of the professions, so feel free to split them using a new line
                  (\n) like in the English version of the second text for each profession       -->
-            <GameDBLocalizedString>      <LocID>DLC_PHARMACOLOGIST</LocID>              <Text>Nhà dược học</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DLC_PHARMACOLOGIST_UI</LocID>           <Text>Nhà dược học\nchính</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DLC_PHARMACOLOGIST</LocID>              <Text>Dược sĩ</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DLC_PHARMACOLOGIST_UI</LocID>           <Text>Dược sĩ\nchính</Text>  </GameDBLocalizedString>
 
-            <GameDBLocalizedString>      <LocID>DLC_GIFT_SHOP_VENDOR</LocID>            <Text>Người bán cửa hàng quà tặng</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DLC_GIFT_SHOP_VENDOR</LocID>            <Text>Nhân viên bán hàng/Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DLC_GIFT_SHOP_VENDOR_UI</LocID>         <Text>Cửa hàng quà tặng\nngười bán</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DLC_GIFT_SHOP_VENDOR_DESCRIPTION</LocID><Text>Quản lý cửa hàng Quà tặng và bán quà tặng cho khách viến thăm.</Text>  </GameDBLocalizedString>
             
-            <GameDBLocalizedString>      <LocID>DLC_JANITOR_MANAGER</LocID>             <Text>Quản lý vệ sinh</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DLC_JANITOR_MANAGER</LocID>             <Text>Quản lý</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DLC_JANITOR_MANAGER_UI</LocID>          <Text>Vệ sinh\nquản lý</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DLC_JANITOR_MANAGER_DESCRIPTION</LocID><Text>Quản lý vệ sinh tăng hiệu quả của các thiết bị vệ sinh và cho phép bạn chỉ định chúng để dọn dẹp từng phòng riêng lẻ.</Text>  </GameDBLocalizedString>
 
-            <GameDBLocalizedString>      <LocID>DLC_PATHOLOGIST</LocID>                 <Text>Nhà nghiên cứu bệnh học</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DLC_PATHOLOGIST_UI</LocID>              <Text>Nhà nghiên cứu bệnh học\nchính</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DLC_PATHOLOGIST</LocID>                 <Text>Pháp y</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DLC_PATHOLOGIST_UI</LocID>              <Text>Pháp y\nchính</Text>  </GameDBLocalizedString>
 
             <GameDBLocalizedString>      <LocID>SEGMENT_HEADING_ASSIGNED_ROOMS</LocID>  <Text>Phòng được chỉ định</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>TOOLTIP_RESET_ASSIGNED_ROOMS</LocID>    <Text>Đặt lại phòng được chỉ định</Text>  </GameDBLocalizedString>
@@ -139,13 +139,13 @@
             
             <GameDBLocalizedString>      <LocID>SEGMENT_HEADING_VISITED_PATIENT</LocID> <Text>Bệnh nhân đã thăm khám</Text>  </GameDBLocalizedString>
 
-            <GameDBLocalizedString>      <LocID>DLC_TOOLTIP_SEND_TO_TRAINING</LocID>    <Text>Cử một nhân viên đến phòng học để đào tạo kỹ năng này. Nhân viên sẽ không rảnh trong {1} giờ khi được đào tạo về {2}. \nPhí: {3}$</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DLC_TOOLTIP_SEND_TO_TRAINING</LocID>    <Text>Cử một nhân viên đến phòng học để training kỹ năng này. Nhân viên sẽ không rảnh trong {1} giờ khi được training về {2}. \nPhí: {3}$</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DLC_TOOLTIP_SEND_TO_TRAINING_NOT_EXIST</LocID>  <Text>Không có phòng học</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DLC_TOOLTIP_SEND_TO_TRAINING_NO_SPACE</LocID>   <Text>Không còn chỗ ngồi trong phòng học</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DLC_TOOLTIP_TRAINING_SCHEDULED</LocID>  <Text>Đào tạo theo lịch trình</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DLC_TOOLTIP_STAFF_IN_TRAINING</LocID>   <Text>Nhân viên đang đào tạo trong {1}. Còn lại {2} giờ.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DLC_TOOLTIP_TRAINING_SCHEDULED</LocID>  <Text>training theo lịch trình</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DLC_TOOLTIP_STAFF_IN_TRAINING</LocID>   <Text>Nhân viên đang training trong {1}. Còn lại {2} giờ.</Text>  </GameDBLocalizedString>
             
-            <GameDBLocalizedString>      <LocID>DLC_TABLE_DOCTORS_TRAINING</LocID>      <Text>Đào tạo</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DLC_TABLE_DOCTORS_TRAINING</LocID>      <Text>training</Text>  </GameDBLocalizedString>
             
             <GameDBLocalizedString>       <LocID>TABLE_AUTOPSY_HEADING</LocID>          <Text>Lịch sử khám nghiệm tử thi</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>       <LocID>TABLE_AUTOPSY_STATUS</LocID>           <Text>Tình trạng khám nghiệm tử thi</Text>  </GameDBLocalizedString>
@@ -156,20 +156,20 @@
             <GameDBLocalizedString>      <LocID>DLC_ADMIN_CONTROL_PROCEDURE_PHARMACY</LocID>      <Text>Bán thuốc</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DLC_ADMIN_CONTROL_PROCEDURE_GIFT_SHOP</LocID>     <Text>Bán quà tặng</Text>  </GameDBLocalizedString>
             
-            <GameDBLocalizedString>      <LocID>DLC_PATHOLOGY_CONTROL_PROCEDURE_PATHOLOGY</LocID> <Text>Thực hiện khám nghiệm tử thi</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DLC_PATHOLOGY_CONTROL_PROCEDURE_PATHOLOGY</LocID> <Text>Khám nghiệm tử thi</Text>  </GameDBLocalizedString>
             
             <!-- Patient card -->
             <GameDBLocalizedString>      <LocID>TOOLTIP_SELECT_DEPARTMENT_PATHOLOGY</LocID>       <Text>Bệnh nhân chết không thể chuyển đi</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>TOOLTIP_DISPOSE_OF_BODY</LocID>                   <Text>Đưa xác đến dịch vụ tang lễ</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TOOLTIP_DISPOSE_OF_BODY</LocID>                   <Text>Đưa xác đi mai táng</Text>  </GameDBLocalizedString>
                                                                                                   
             <!-- Building panel -->                                                               
             <GameDBLocalizedString>      <LocID>TOOLTIP_BUILDING_PREFAB_ADMINISTRATIVE</LocID>    <Text>Mẫu phòng hành chính</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>TOOLTIP_BUILDING_PREFAB_PATHOLOGY</LocID>         <Text>Mẫu phòng khám bệnh học</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TOOLTIP_BUILDING_PREFAB_PATHOLOGY</LocID>         <Text>Mẫu phòng khám tử thi</Text>  </GameDBLocalizedString>
 
-            <GameDBLocalizedString>      <LocID>NO_NIGHT_SHIFT_ALLOWED</LocID>                    <Text>Phòng này không cho thuê ca đêm.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>NO_NIGHT_SHIFT_ALLOWED</LocID>                    <Text>Phòng này không có ca đêm.</Text>  </GameDBLocalizedString>
                                                                                                   
             <GameDBLocalizedString>      <LocID>TOOLTIP_SELECT_ROOM_TO_CLEAN</LocID>              <Text>Trực tiếp chỉ định các phòng mà nhân viên vệ sinh này sẽ dọn dẹp</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>TOOLTIP_CANT_SELECT_ROOM_TO_CLEAN</LocID>         <Text>Thuê quản lý ở bộ phận Hành chính để có thể phân công nhân viên vệ sinh cho các phòng riêng lẻ</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TOOLTIP_CANT_SELECT_ROOM_TO_CLEAN</LocID>         <Text>Thuê quản lý để có thể phân công nhân viên vệ sinh cho các phòng riêng lẻ</Text>  </GameDBLocalizedString>
 
             <!-- DLC Tutorial and campaign level menu -->                                                 
             <!-- DLC Tutorial texts -->
@@ -185,16 +185,16 @@
             <!-- Departments -->
             <GameDBLocalizedString>     <LocID>DLC_DPT_ADMINISTRATIVE</LocID>                                   <Text>Bộ phận hành chính</Text>  </GameDBLocalizedString>
 
-            <GameDBLocalizedString>     <LocID>DLC_SKILL_LAB_SPECIALIST_SPEC_PHARMACOLOGY</LocID>               <Text>Dược học</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>     <LocID>DLC_SKILL_LAB_SPECIALIST_SPEC_PHARMACOLOGY</LocID>               <Text>Dược sĩ</Text></GameDBLocalizedString>
             <GameDBLocalizedString>     <LocID>DLC_SKILL_LAB_SPECIALIST_SPEC_PHARMACOLOGY_DESCRIPTION</LocID>   <Text>Dược sĩ bán thuốc cho bệnh nhân của bạn và đảm bảo họ nhận được liều lượng và hướng dẫn chính xác.</Text></GameDBLocalizedString>
             <GameDBLocalizedString>     <LocID>DLC_SKILL_JANITOR_SPEC_VENDOR</LocID>                            <Text>Người bán cửa hàng quà tặng</Text></GameDBLocalizedString>
             <GameDBLocalizedString>     <LocID>DLC_SKILL_JANITOR_SPEC_VENDOR_DESCRIPTION</LocID>                <Text>Người bán cửa hàng quà tặng bán quà cho các thành viên trong gia đình và bạn bè đến thăm bệnh nhân nằm viện.</Text></GameDBLocalizedString>
             <GameDBLocalizedString>     <LocID>DLC_SKILL_JANITOR_SPEC_MANAGER</LocID>                           <Text>Quản lý</Text></GameDBLocalizedString>
             <GameDBLocalizedString>     <LocID>DLC_SKILL_JANITOR_SPEC_MANAGER_DESCRIPTION</LocID>               <Text>Nếu một người quản lý được thuê cho Bộ phận hành chính, họ sẽ tăng hiệu quả tổng thể của tất cả các nhân viên vệ sinh trong bệnh viện và cho phép bạn chỉ định các nhân viên vệ sinh cho các phòng riêng lẻ. Nhân viên này cũng đóng vai trò là ông chủ của tất cả các nhân viên vệ sinh.</Text></GameDBLocalizedString>
 
-            <GameDBLocalizedString>     <LocID>DLC_DPT_PATHOLOGY</LocID>                                        <Text>Khoa bệnh lý</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>     <LocID>DLC_DPT_PATHOLOGY</LocID>                                        <Text>Khoa Giải phẫu bệnh</Text>  </GameDBLocalizedString>
             
-            <GameDBLocalizedString>     <LocID>DLC_SKILL_DOC_SPEC_PATHOLOGY</LocID>                             <Text>Bệnh lý học</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>     <LocID>DLC_SKILL_DOC_SPEC_PATHOLOGY</LocID>                             <Text>Giải phẫu bệnh</Text></GameDBLocalizedString>
             <GameDBLocalizedString>     <LocID>DLC_SKILL_DOC_SPEC_PATHOLOGY_DESCRIPTION</LocID>                 <Text>Các nhà giải phẫu bệnh có hiểu biết rộng về nguyên nhân và ảnh hưởng của các bệnh hoặc chấn thương và cho phép bạn khám nghiệm tử thi.</Text></GameDBLocalizedString>
 
             <!-- RELATED FILE: StringTable[Language]Characters.xml -->
@@ -204,7 +204,7 @@
             
             <!-- RELATED FILE: StringTable[Language]BuildingMode.xml -->
             <GameDBLocalizedString>     <LocID>DLC_ROOM_TYPE_PHARMACY</LocID>                     <Text>Hiệu thuốc</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>     <LocID>DLC_ROOM_TYPE_PHARMACY_DESCRIPTION</LocID>         <Text>hiệu thuốc bệnh viện bán thuốc cho bệnh nhân của bạn. \nTối thiểu. yêu cầu nhân viên: 1x nhà dược học</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>     <LocID>DLC_ROOM_TYPE_PHARMACY_DESCRIPTION</LocID>         <Text>hiệu thuốc bệnh viện bán thuốc cho bệnh nhân của bạn. \nTối thiểu. yêu cầu nhân viên: 1x Dược sĩ</Text></GameDBLocalizedString>
 
             <GameDBLocalizedString>     <LocID>DLC_ROOM_TYPE_JANITOR_ADMIN</LocID>                <Text>Văn phòng dịch vụ</Text></GameDBLocalizedString>
             <GameDBLocalizedString>     <LocID>DLC_ROOM_TYPE_JANITOR_ADMIN_DESCRIPTION</LocID>    <Text>Phòng này cho phép bạn thuê một người quản lý, người làm tăng hiệu quả chung của tất cả các nhân viên vệ sinh trong bệnh viện và cho phép bạn phân công họ dọn dẹp từng phòng riêng lẻ. \nTối thiểu. yêu cầu nhân viên: 1x Quản lý vệ sinh</Text></GameDBLocalizedString>
@@ -219,10 +219,10 @@
             <GameDBLocalizedString>     <LocID>DLC_ROOM_TYPE_CAFETERIA_DESCRIPTION</LocID>        <Text>Nhà ăn của người lao động, nơi ăn uống phù hợp.</Text></GameDBLocalizedString>
 
             <GameDBLocalizedString>     <LocID>DLC_ROOM_TYPE_CLASSROOM</LocID>                    <Text>Phòng học</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>     <LocID>DLC_ROOM_TYPE_CLASSROOM_DESCRIPTION</LocID>        <Text>Nhân viên có thể đào tạo các kỹ năng và chuyên môn của họ trong Phòng học.</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>     <LocID>DLC_ROOM_TYPE_CLASSROOM_DESCRIPTION</LocID>        <Text>Nhân viên có thể training các kỹ năng và chuyên môn của họ trong Phòng học.</Text></GameDBLocalizedString>
 
             <GameDBLocalizedString>     <LocID>DLC_ROOM_TYPE_PATHOLOGY_OR</LocID>                 <Text>Phòng khám nghiệm tử thi</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>     <LocID>DLC_ROOM_TYPE_PATHOLOGY_OR_DESCRIPTION</LocID>     <Text>Các nhà nghiên cứu bệnh học tiến hành khám nghiệm tử thi ở đây, cố gắng tìm ra diễn biến của một căn bệnh và nguyên nhân cái chết. \nTối thiểu. yêu cầu nhân viên: 1 nhà nghiên cứu bệnh học trong phòng trực</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>     <LocID>DLC_ROOM_TYPE_PATHOLOGY_OR_DESCRIPTION</LocID>     <Text>Các Pháp y tiến hành khám nghiệm tử thi ở đây, cố gắng tìm ra diễn biến của một căn bệnh và nguyên nhân cái chết. \nTối thiểu. yêu cầu nhân viên: 1 Pháp y trong phòng trực</Text></GameDBLocalizedString>
 
             <GameDBLocalizedString>     <LocID>DLC_ROOM_TYPE_PATHOLOGY_WARD</LocID>               <Text>Phòng lạnh</Text></GameDBLocalizedString>
             <GameDBLocalizedString>     <LocID>DLC_ROOM_TYPE_PATHOLOGY_WARD_DESCRIPTION</LocID>   <Text>Phòng lạnh có thể giữ xác chết một cách an toàn trước và sau khi làm thủ tục khám nghiệm tử thi.</Text></GameDBLocalizedString>
@@ -277,7 +277,7 @@
             <GameDBLocalizedString>      <LocID>OBJECT_DECAL_STUDYROOM</LocID>                    <Text>Phòng học</Text>  </GameDBLocalizedString>
             
             <GameDBLocalizedString>      <LocID>OBJECT_DECAL_ADMIN</LocID>                        <Text>Bộ phận hành chính</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OBJECT_DECAL_PATHOLOGY</LocID>                    <Text>Khoa bệnh lý</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OBJECT_DECAL_PATHOLOGY</LocID>                    <Text>Khoa Giải phẫu bệnh</Text>  </GameDBLocalizedString>
 
             <GameDBLocalizedString>      <LocID>OBJECT_CHAIR_WOOD</LocID>                         <Text>Ghế gỗ</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_DINING_TABLE_2</LocID>                     <Text>Bàn ăn</Text>  </GameDBLocalizedString>
@@ -299,9 +299,9 @@
 
             <!--Pathology objects-->
             <GameDBLocalizedString>      <LocID>OBJECT_AUTOPSY_INSTRUMENTS</LocID>                      <Text>Thiết bị khám nghiệm tử thi</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OBJECT_AUTOPSY_INSTRUMENTS_DESCRIPTION</LocID>          <Text>Thiết bị giải phẫu và bệnh lý tiêu chuẩn được sử dụng trong quá trình khám nghiệm tử thi.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OBJECT_AUTOPSY_INSTRUMENTS_DESCRIPTION</LocID>          <Text>Thiết bị giải phẫu và Giải phẫu bệnh tiêu chuẩn được sử dụng trong quá trình khám nghiệm tử thi.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_INSTRUMENTS_TABLE_2</LocID>                      <Text>Bàn dụng cụ - kính</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OBJECT_INSTRUMENTS_TABLE_2_DESCRIPTION</LocID>          <Text>Bàn dụng cụ có mặt trên bằng kính, thích hợp cho các mục đích sử dụng kỹ thuật, ví dụ: tại Khoa bệnh lý.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OBJECT_INSTRUMENTS_TABLE_2_DESCRIPTION</LocID>          <Text>Bàn dụng cụ có mặt trên bằng kính, thích hợp cho các mục đích sử dụng kỹ thuật, ví dụ: tại Khoa Giải phẫu bệnh.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_ORGAN_WEIGHT</LocID>                             <Text>Cân khám nghiệm tử thi</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_ORGAN_WEIGHT_DESCRIPTION</LocID>                 <Text>Cân khám nghiệm tử thi là một bộ phận quan trọng của thiết bị giải phẫu bệnh.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_STERILIZATION_LAMP</LocID>                       <Text>Đèn diệt khuẩn</Text>  </GameDBLocalizedString>
@@ -337,11 +337,11 @@
             <GameDBLocalizedString>     <LocID>DLC_WORLD_EVENT_INFLUENCER_VISIT</LocID>           <Text>Một người có ảnh hưởng nổi tiếng đã được điều trị tại bệnh viện của bạn, giờ đây, bệnh viện này thu hút thêm {1}% bệnh nhân!</Text></GameDBLocalizedString>
             <GameDBLocalizedString>     <LocID>DLC_WORLD_EVENT_INFLUENCER_VISIT_TEXT</LocID>      <Text>Sự công khai có được nhờ một người có ảnh hưởng nổi tiếng được điều trị tại bệnh viện của bạn sẽ thu hút thêm {1}% bệnh nhân!</Text></GameDBLocalizedString>
 
-            <GameDBLocalizedString>     <LocID>DLC_WORLD_EVENT_FINANCIAL_CRISIS</LocID>           <Text>Khủng hoảng tài chính khiến khoản thanh toán bảo hiểm thấp hơn {1}%.</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>     <LocID>DLC_WORLD_EVENT_FINANCIAL_CRISIS_TEXT</LocID>      <Text>Khủng hoảng tài chính trên toàn quốc khiến khoản thanh toán bảo hiểm thấp hơn {1}%.</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>     <LocID>DLC_WORLD_EVENT_FINANCIAL_CRISIS</LocID>           <Text>Khủng hoảng tài chính khiến khoản tiền bảo hiểm thấp hơn {1}%.</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>     <LocID>DLC_WORLD_EVENT_FINANCIAL_CRISIS_TEXT</LocID>      <Text>Khủng hoảng tài chính trên toàn quốc khiến khoản tiền bảo hiểm thấp hơn {1}%.</Text></GameDBLocalizedString>
 
-            <GameDBLocalizedString>     <LocID>DLC_WORLD_EVENT_PUBLIC_HEALTH_REFORM</LocID>       <Text>Chính sách y tế công cộng mới khiến khoản thanh toán bảo hiểm cao hơn {1}%.</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>     <LocID>DLC_WORLD_EVENT_PUBLIC_HEALTH_REFORM_TEXT</LocID>  <Text>Cuộc bầu cử tiểu bang sắp diễn ra, Chính sách y tế công cộng mới khiến khoản thanh toán bảo hiểm cao hơn {1}%.</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>     <LocID>DLC_WORLD_EVENT_PUBLIC_HEALTH_REFORM</LocID>       <Text>Chính sách y tế công cộng mới khiến khoản tiền bảo hiểm cao hơn {1}%.</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>     <LocID>DLC_WORLD_EVENT_PUBLIC_HEALTH_REFORM_TEXT</LocID>  <Text>Cuộc bầu cử tiểu bang sắp diễn ra, Chính sách y tế công cộng mới khiến khoản tiền bảo hiểm cao hơn {1}%.</Text></GameDBLocalizedString>
 
             <GameDBLocalizedString>     <LocID>DLC_WORLD_EVENT_FLU_SEASON</LocID>                 <Text>Mùa cúm, thêm {1}% bệnh nhân đến khám.</Text></GameDBLocalizedString>
             <GameDBLocalizedString>     <LocID>DLC_WORLD_EVENT_FLU_SEASON_TEXT</LocID>            <Text>Thời tiết xấu và nhiệt độ thấp khiến số bệnh nhân của bạn đến phòng khám nhiều hơn {1}%.</Text></GameDBLocalizedString>
