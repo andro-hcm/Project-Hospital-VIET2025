@@ -720,7 +720,7 @@
             <GameDBLocalizedString>      <LocID>PREFAB_ROOM_CARDIOVASCULAR_UNIT_IM_ABBR</LocID>      <Text>Phòng đo điện tim - 6 x 6</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>PREFAB_ROOM_CARDIOVASCULAR_UNIT_NE_ABBR</LocID>      <Text>Phòng đo điện tim - 6 x 6</Text>  </GameDBLocalizedString>
 
-            <!--UPDATED--><GameDBLocalizedString>      <LocID>PREFAB_ROOM_NEUROLAB_NE_ABBR</LocID>      <Text>Đơn vị Neuroexam - 6 x 6</Text>  </GameDBLocalizedString>
+            <!--UPDATED--><GameDBLocalizedString>      <LocID>PREFAB_ROOM_NEUROLAB_NE_ABBR</LocID>      <Text>Phòng nơron - 6 x 6</Text>  </GameDBLocalizedString>
 
             <GameDBLocalizedString>      <LocID>PREFAB_ROOM_OPERATING_THEATRE_GS_ABBR</LocID>           <Text>Phòng đại phẫu - 12 x 6</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>PREFAB_ROOM_OPERATING_THEATRE_IM_ABBR</LocID>           <Text>Phòng đại phẫu - 12 x 6</Text>  </GameDBLocalizedString>
