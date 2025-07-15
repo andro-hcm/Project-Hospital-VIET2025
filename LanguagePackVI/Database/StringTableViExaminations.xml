@@ -10,7 +10,7 @@
 
         <LocalizedStrings>
             <!-- Examinations -->
-            <GameDBLocalizedString>      <LocID>EXM_RECEPTION_FAST</LocID>                                      <Text>Thử nghiệm trong lễ tân</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>EXM_RECEPTION_FAST</LocID>                                      <Text>Sàng lọc tại lễ tân</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>EXM_RECEPTION_DESCRIPTION</LocID>                               <Text>Nhân viên lễ tân có thể chỉ định mức độ ưu tiên cao hơn cho bệnh nhân dựa trên các triệu chứng của họ.\n\nPhòng yêu cầu: Lễ tân</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>EXM_ABDOMINAL_PALPATION</LocID>                                 <Text>Sờ bụng</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>EXM_ABDOMINAL_PALPATION_DESCRIPTION</LocID>                     <Text>Loại khám sức khỏe. Người khám sờ (sờ) chín vùng bụng của bệnh nhân, thực hiện hai lần, cả bề ngoài và sâu.\n\nPhòng yêu cầu: Bất kỳ phòng nào / Phòng chẩn đoán</Text>  </GameDBLocalizedString>
@@ -56,8 +56,8 @@
             <GameDBLocalizedString>      <LocID>EXM_FAST_DESCRIPTION</LocID>                                    <Text>Đánh giá nhanh với Siêu âm trong chấn thương (FAST) là một phương pháp siêu âm đặc biệt được sử dụng để đánh giá chấn thương Bệnh nhân và Đơn vị chăm sóc đặc biệt bệnh nhân.\n\nPhòng yêu cầu: Trung tâm chấn thương, ICU</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>EXM_FECAL_ELASTASE_TEST_SAMPLING</LocID>                        <Text>Thử nghiệm đàn hồi - lấy mẫu</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>EXM_FECAL_ELASTASE_TEST_TESTING</LocID>                         <Text>Thử nghiệm đàn hồi - xét nghiệm</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>EXM_FUNGAL_CULTIVATION_SAMPLING</LocID>                         <Text>Lấy mẫu thần học (Mycologic)</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>EXM_FUNGAL_CULTIVATION_TESTING</LocID>                          <Text>Trồng nấm</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>EXM_FUNGAL_CULTIVATION_SAMPLING</LocID>                         <Text>Lấy mẫu nấm</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>EXM_FUNGAL_CULTIVATION_TESTING</LocID>                          <Text>Kiểm tra nấm</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>EXM_GASTROSCOPY</LocID>                                         <Text>Nội soi dạ dày</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>EXM_GASTROSCOPY_DESCRIPTION</LocID>                             <Text>Một thủ thuật trong đó một ống mềm (ống nội soi) với một máy quay video nhỏ và một nguồn sáng ở cuối được đưa qua miệng để kiểm tra phần trên của đường tiêu hóa.\n\nPhòng yêu cầu: ICU / Văn phòng / Phòng chẩn đoán tại phẫu thuật tổng quát / Khoa nội / Tim mạch</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>EXM_GONIOSCOPY</LocID>                                          <Text>Gonioscopy</Text>  </GameDBLocalizedString>
@@ -79,8 +79,8 @@
             <GameDBLocalizedString>      <LocID>EXM_NEUROLOGICAL_TESTING</LocID>                                <Text>Kiểm tra thần kinh</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>EXM_NEUROLOGICAL_TESTING_DESCRIPTION</LocID>                    <Text>Các câu hỏi và bài kiểm tra đơn giản và cụ thể khác nhau cung cấp thông tin về hệ thống thần kinh trung ương của bệnh nhân.\n\nPhòng yêu cầu: Bất kỳ phòng nào / Phòng chẩn đoán tại tất cả bộ ngành ngoài trừ Chỉnh hình</Text>  </GameDBLocalizedString>
 <!--
-            <GameDBLocalizedString>      <LocID>EXM_OBSERVATION</LocID>                                         <Text>Quan sát</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>EXM_OBSERVATION_DESCRIPTION</LocID>                             <Text>Quan sát bệnh nhân trong 24 giờ để đảm bảo bệnh nhân không xấu đi.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>EXM_OBSERVATION</LocID>                                         <Text>Theo dõi</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>EXM_OBSERVATION_DESCRIPTION</LocID>                             <Text>Theo dõi bệnh nhân trong 24 giờ để đảm bảo bệnh nhân không xấu đi.</Text>  </GameDBLocalizedString>
 -->
             <GameDBLocalizedString>      <LocID>EXM_OPHTHALMOSCOPY</LocID>                                      <Text>Soi đáy mắt</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>EXM_OPHTHALMOSCOPY_DESCRIPTION</LocID>                          <Text>Một thủ thuật trong đó nền/võng mạc được hình dung thông qua soi đáy mắt/kính soi đáy mắt.\n\nPhòng yêu cầu: Phòng khám / Phòng theo dõi / Trung tâm chấn thương / ICU / Văn phòng / Phòng chẩn đoán tại Cấp cứu / ICU / Khoa nội / Thần kinh </Text>  </GameDBLocalizedString>
@@ -106,7 +106,7 @@
             <GameDBLocalizedString>      <LocID>EXM_SPINAL_FLUID_ANALYSIS_TESTING</LocID>                       <Text>Phân tích CSF</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>EXM_SPIROMETRY</LocID>                                          <Text>Đo phế dung</Text>  </GameDBLocalizedString>
             <!--UPDATED--><GameDBLocalizedString>      <LocID>EXM_SPIROMETRY_DESCRIPTION</LocID>                              <Text>Một trong những xét nghiệm chức năng phổi phổ biến nhất, đo chức năng phổi.\n\nPhòng yêu cầu: Văn phòng / Phòng chẩn đoán tại Khoa nội</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>EXM_STOOL_ANALYSIS_SAMPLING</LocID>                             <Text>Thu gom phân</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>EXM_STOOL_ANALYSIS_SAMPLING</LocID>                             <Text>Lấy mẫu phân</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>EXM_STOOL_ANALYSIS_TESTING</LocID>                              <Text>Phân tích phân</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>EXM_SWEAT_CHLORIDE_TEST</LocID>                                 <Text>Kiểm tra clorua mồ hôi</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>EXM_SWEAT_CHLORIDE_TEST_DESCRIPTION</LocID>                     <Text>Xét nghiệm sinh hóa đặc biệt được sử dụng để chẩn đoán bệnh xơ nang.\n\nPhòng yêu cầu: Văn phòng / Phòng chẩn đoán tại Khoa nội / ICU</Text>  </GameDBLocalizedString>
@@ -139,9 +139,9 @@
             <GameDBLocalizedString>      <LocID>EXM_DIFFERENTIAL_DIAGNOSIS_DESCRIPTION</LocID>                  <Text>Xem xét trường hợp đặc biệt giúp giảm số lượng chuẩn đoán có thể. Chỉ có thể được thực hiện bởi bác sĩ có chuyên môn về chẩn đoán nâng cao.</Text>  </GameDBLocalizedString>
 
             <!--
-            <GameDBLocalizedString>      <LocID>EXM_ANALYTIC_INTERVIEW</LocID>                                  <Text>Phỏng vấn phân tích</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>EXM_ANALYTIC_INTERVIEW_DESCRIPTION</LocID>                      <Text>Phỏng vấn đặc biệt chỉ có thể được thực hiện bởi bác sĩ có chuyên môn chẩn đoán trước. Discovers possible Triệu chứng ẩn bệnh nhân có thể xấu hổ khi nói đến.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>EXM_CONSULTATIVE_EXAMINATIONS</LocID>                           <Text>Khám tư vấn</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>EXM_ANALYTIC_INTERVIEW</LocID>                                  <Text>Thăm hỏi chuyên sâu</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>EXM_ANALYTIC_INTERVIEW_DESCRIPTION</LocID>                      <Text>Phỏng vấn đặc biệt chỉ có thể được thực hiện bởi bác sĩ có chuyên môn chẩn đoán trước. Triệu chứng ẩn bệnh nhân có thể xấu hổ khi nói đến.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>EXM_CONSULTATIVE_EXAMINATIONS</LocID>                           <Text>Tư vấn chuyên sâu</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>EXM_CONSULTATIVE_EXAMINATIONS_DESCRIPTIONS</LocID>              <Text>Kiểm tra đặc biệt chỉ có thể được thực hiện bởi bác sĩ có chuyên môn chẩn đoán trước. Nó đề xuất một cuộc kiểm tra để phát hiện Triệu chứng ẩn.</Text>  </GameDBLocalizedString>
 -->
 
