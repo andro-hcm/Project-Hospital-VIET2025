@@ -15,13 +15,13 @@
             <GameDBLocalizedString> <LocID>DPT_TRAUMATOLOGY_DEPARTMENT</LocID>                            <Text>Chấn thương</Text> </GameDBLocalizedString>
 
             <!-- Hospitalization alias -->
-            <GameDBLocalizedString> <LocID>TRT_HOSPITALIZATION_BURN_CENTER</LocID>                        <Text>Nhập viện đơn vị bỏng</Text> </GameDBLocalizedString>
-            <GameDBLocalizedString> <LocID>TRT_HOSPITALIZATION_BURN_CENTER_DESCRIPTION</LocID>            <Text>Nhập viện bệnh nhân tại đơn vị bỏng với sự chăm sóc đặc biệt.\n\nPhòng yêu cầu: Đơn vị bỏng</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>TRT_HOSPITALIZATION_BURN_CENTER</LocID>                        <Text>Khoa bỏng</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>TRT_HOSPITALIZATION_BURN_CENTER_DESCRIPTION</LocID>            <Text>Nhập viện bệnh nhân tại Khoa bỏng với sự chăm sóc đặc biệt.\n\nPhòng yêu cầu: Khoa bỏng</Text> </GameDBLocalizedString>
 
             <!--ROOMS-->
-            <GameDBLocalizedString> <LocID>ROOM_TYPE_BURN_UNIT</LocID>                                    <Text>Đơn vị bỏng</Text> </GameDBLocalizedString>
-            <GameDBLocalizedString> <LocID>ROOM_TYPE_BURN_UNIT_DESCRIPTION</LocID>                        <Text>Đơn vị bỏng chuyên điều trị bỏng các loại.</Text> </GameDBLocalizedString>
-            <GameDBLocalizedString> <LocID>ROOM_TYPE_TRAUMATOLOGY_OFFICE</LocID>                          <Text>Văn phòng chấn thương</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>ROOM_TYPE_BURN_UNIT</LocID>                                    <Text>Khoa bỏng</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>ROOM_TYPE_BURN_UNIT_DESCRIPTION</LocID>                        <Text>Khoa bỏng chuyên điều trị bỏng các loại.</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>ROOM_TYPE_TRAUMATOLOGY_OFFICE</LocID>                          <Text>Phòng khám chấn thương</Text> </GameDBLocalizedString>
             <GameDBLocalizedString> <LocID>ROOM_TYPE_TRAUMATOLOGY_OFFICE_DESCRIPTION</LocID>              <Text>Phòng khám ngoại trú khám và điều trị đơn giản. Yêu cầu nhân viên:\n1x bác sĩ chấn thương</Text> </GameDBLocalizedString>
             <GameDBLocalizedString> <LocID>ROOM_TYPE_INPATIENT_TRAUMATOLOGY_OFFICE</LocID>                <Text>Đơn vị chẩn đoán</Text> </GameDBLocalizedString>
             <GameDBLocalizedString> <LocID>ROOM_TYPE_INPATIENT_TRAUMATOLOGY_OFFICE_DESCRIPTION</LocID>    <Text>Đơn vị chẩn đoán tại khoa Chấn thương chỉnh hình khám và điều trị cho bệnh nhân nằm viện. \n\nTối thiểu. Yêu cầu nhân viên: \n1x bác sĩ chấn thương \n(Nhân sự làm việc tại phòng trực điện thoại)</Text> </GameDBLocalizedString>
@@ -56,7 +56,7 @@
             <GameDBLocalizedString> <LocID>OBJECT_EQUIPMENT_CABINET_X</LocID>                             <Text>Tủ thiết bị</Text> </GameDBLocalizedString>
             <GameDBLocalizedString> <LocID>OBJECT_BED_SOCKET_X</LocID>                                    <Text>Ổ cắm giường</Text> </GameDBLocalizedString>
             
-            <GameDBLocalizedString> <LocID>OBJECT_DECAL_BURN_UNIT</LocID>                                 <Text>Đơn vị bỏng</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>OBJECT_DECAL_BURN_UNIT</LocID>                                 <Text>Khoa bỏng</Text> </GameDBLocalizedString>
             
             <GameDBLocalizedString> <LocID>OBJECT_CABINET_BEDSIDE_X</LocID>                               <Text>Tủ đầu giường</Text> </GameDBLocalizedString>
             
@@ -320,17 +320,17 @@
 
             <!--TREATMENTS-->
             <GameDBLocalizedString> <LocID>TRT_ANTIVENOM</LocID>                                       <Text>Kháng thể chống độc</Text> </GameDBLocalizedString>
-            <GameDBLocalizedString> <LocID>TRT_ANTIVENOM_DESCRIPTION</LocID>                           <Text>Phương pháp điều trị bằng cách sử dụng các kháng thể liên kết và vô hiệu hóa một loại nọc độc cụ thể.\n\nPhòng yêu cầu: Văn phòng / Đơn vị chẩn đoán tại khoa chấn thương / ICU</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>TRT_ANTIVENOM_DESCRIPTION</LocID>                           <Text>Phương pháp điều trị bằng cách sử dụng các kháng thể liên kết và vô hiệu hóa một loại nọc độc cụ thể.\n\nPhòng yêu cầu: Phòng khám / Đơn vị chẩn đoán tại khoa chấn thương / ICU</Text> </GameDBLocalizedString>
             <GameDBLocalizedString> <LocID>TRT_CONCETRATED_OXYGEN</LocID>                              <Text>Ôxy đậm đặc</Text> </GameDBLocalizedString>
-            <GameDBLocalizedString> <LocID>TRT_CONCETRATED_OXYGEN_DESCRIPTION</LocID>                  <Text>Liệu pháp dựa trên việc thở ôxy đậm đặc.\n\nPhòng yêu cầu: Văn phòng / Đơn vị chẩn đoán / Đơn vị bỏng tại khoa chấn thương. / ICU / Trung tâm chấn thương tại cấp cứu</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>TRT_CONCETRATED_OXYGEN_DESCRIPTION</LocID>                  <Text>Liệu pháp dựa trên việc thở ôxy đậm đặc.\n\nPhòng yêu cầu: Phòng khám / Đơn vị chẩn đoán / Khoa bỏngtại khoa chấn thương. / ICU / Trung tâm chấn thương tại cấp cứu</Text> </GameDBLocalizedString>
             <GameDBLocalizedString> <LocID>TRT_WARMED_IV_FLUIDS</LocID>                                <Text>Chất lỏng IV được làm ấm</Text>	</GameDBLocalizedString>
-            <GameDBLocalizedString> <LocID>TRT_WARMED_IV_FLUIDS_DESCRIPTION</LocID>                    <Text>Dịch truyền tĩnh mạch được làm ấm lên đến nhiệt độ 38-45°C/100-113°F được sử dụng để kiểm soát tình trạng hạ thân nhiệt.\n\nPhòng yêu cầu: Đơn vị bỏng tại khoa chấn thương. / ICU</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>TRT_WARMED_IV_FLUIDS_DESCRIPTION</LocID>                    <Text>Dịch truyền tĩnh mạch được làm ấm lên đến nhiệt độ 38-45°C/100-113°F được sử dụng để kiểm soát tình trạng hạ thân nhiệt.\n\nPhòng yêu cầu: Khoa bỏngtại khoa chấn thương. / ICU</Text>	</GameDBLocalizedString>
             <GameDBLocalizedString> <LocID>TRT_PROTECTIVE_DRESSING</LocID>                             <Text>Bảo vệ vết thương</Text>	</GameDBLocalizedString>
-            <GameDBLocalizedString> <LocID>TRT_PROTECTIVE_DRESSING_DESCRIPTION</LocID>                 <Text>Băng bó bảo vệ vết thương.\n\nPhòng yêu cầu: Văn phòng / Đơn vị chẩn đoán / Đơn vị bỏng tại khoa chấn thương. / ICU / Trung tâm chấn thương tại cấp cứu</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>TRT_PROTECTIVE_DRESSING_DESCRIPTION</LocID>                 <Text>Băng bó bảo vệ vết thương.\n\nPhòng yêu cầu: Phòng khám / Đơn vị chẩn đoán / Khoa bỏngtại khoa chấn thương. / ICU / Trung tâm chấn thương tại cấp cứu</Text>	</GameDBLocalizedString>
             <GameDBLocalizedString> <LocID>TRT_DEBRIDEMENT</LocID>                                     <Text>Loại bỏ mô chết</Text>	</GameDBLocalizedString>
-            <GameDBLocalizedString> <LocID>TRT_DEBRIDEMENT_DESCRIPTION</LocID>                         <Text>Quy trình y tế loại bỏ mô chết hoặc các vật thể lạ khỏi vết thương.\n\nPhòng yêu cầu: Văn phòng / Đơn vị chẩn đoán / Đơn vị bỏng tại khoa chấn thương. / ICU / Trung tâm chấn thương tại cấp cứu</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>TRT_DEBRIDEMENT_DESCRIPTION</LocID>                         <Text>Quy trình y tế loại bỏ mô chết hoặc các vật thể lạ khỏi vết thương.\n\nPhòng yêu cầu: Phòng khám / Đơn vị chẩn đoán / Khoa bỏngtại khoa chấn thương. / ICU / Trung tâm chấn thương tại cấp cứu</Text>	</GameDBLocalizedString>
             <GameDBLocalizedString> <LocID>TRT_BURN_MANAGEMENT</LocID>                                 <Text>Quản lý bỏng</Text>	</GameDBLocalizedString>
-            <GameDBLocalizedString> <LocID>TRT_BURN_MANAGEMENT_DESCRIPTION</LocID>                     <Text>Quy trình y tế để chữa các loại bỏng.\n\nPhòng yêu cầu: Văn phòng / Đơn vị chẩn đoán/ Đơn vị bỏng tại khoa chấn thương. / ICU / Trung tâm chấn thương tại cấp cứu</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>TRT_BURN_MANAGEMENT_DESCRIPTION</LocID>                     <Text>Quy trình y tế để chữa các loại bỏng.\n\nPhòng yêu cầu: Phòng khám / Đơn vị chẩn đoán/ Khoa bỏngtại khoa chấn thương. / ICU / Trung tâm chấn thương tại cấp cứu</Text>	</GameDBLocalizedString>
 
             <!--SURGERIES-->
             <GameDBLocalizedString> <LocID>TRT_SPLENECTOMY</LocID>                                     <Text>Cắt lách</Text>	</GameDBLocalizedString>
@@ -366,12 +366,12 @@
             <GameDBLocalizedString> <LocID>TRT_PULMONARY_SURGERY_X_DESCRIPTION</LocID>                 <Text>Phẫu thuật phổi hoặc phổi là phẫu thuật được thực hiện để sửa chữa hoặc loại bỏ các phần của mô phổi bị tổn thương.\n\nPhòng yêu cầu: Phòng mổ tại chấn thương + ICU</Text>	</GameDBLocalizedString>
 
             <!-- todo dlc related trt and exams - not to translate by qloc, do it manually-->
-            <GameDBLocalizedString> <LocID>EXM_OPHTHALMOSCOPY_DESCRIPTION</LocID>                      <Text>Một thủ thuật trong đó nền/võng mạc được hình dung thông qua kính soi đáy mắt/soi đáy mắt.\n\nPhòng yêu cầu: Phòng khám / Phòng quan sát / Trung tâm chấn thương / ICU / Văn phòng / Đơn vị chẩn đoán tại Cấp cứu / ICU / Nội khoa / Thần kinh / Chấn thương</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>EXM_OPHTHALMOSCOPY_DESCRIPTION</LocID>                      <Text>Một thủ thuật trong đó nền/võng mạc được hình dung thông qua kính soi đáy mắt/soi đáy mắt.\n\nPhòng yêu cầu: Phòng khám / Phòng quan sát / Trung tâm chấn thương / ICU / Phòng khám / Đơn vị chẩn đoán tại Cấp cứu / ICU / Nội khoa / Thần kinh / Chấn thương</Text> </GameDBLocalizedString>
 
             <GameDBLocalizedString> <LocID>TRT_ANTI_ARRHYTMICALS_DESCRIPTION_V2</LocID>                <Text>Thuốc thường được tiêm tĩnh mạch hoặc dưới dạng thuốc viên để ngăn chặn nhịp tim bất thường. \n\nPhòng yêu cầu: ICU /  Phòng bất kỳ / Đơn vị chẩn đoán tại Cấp cứu dpt / Ngoại khoa tổng quát / Nội khoa / Thần kinh / Chấn thương</Text> </GameDBLocalizedString>
-            <GameDBLocalizedString> <LocID>TRT_WOUND_CLOSURE_DESCRIPTION_V2</LocID>                    <Text>Thủ thuật khâu cơ và da.\n\nPhòng yêu cầu: Phòng khám / Phòng quan sát / Trung tâm chấn thương / ICU / Văn phòng / Đơn vị chẩn đoán tại chỉnh hình / Chấn thương</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>TRT_WOUND_CLOSURE_DESCRIPTION_V2</LocID>                    <Text>Thủ thuật khâu cơ và da.\n\nPhòng yêu cầu: Phòng khám / Phòng quan sát / Trung tâm chấn thương / ICU / Phòng khám / Đơn vị chẩn đoán tại chỉnh hình / Chấn thương</Text> </GameDBLocalizedString>
             <GameDBLocalizedString> <LocID>TRT_ACE_INHIBITOR_DESCRIPTION</LocID>                       <Text>Một loại thuốc được sử dụng trong điều trị tăng huyết áp.\n\nPhòng yêu cầu: Phòng bất kỳ / Đơn vị chẩn đoán tại tất cả các khoa trừ Cấp cứu và Bệnh truyền nhiễm</Text> </GameDBLocalizedString>
-            <GameDBLocalizedString> <LocID>TRT_ANTIHISTAMINES_DESCRIPTION</LocID>                      <Text>Thuốc điều trị dị ứng, chống lại hoạt động của các thụ thể histamine, là nguyên nhân gây ra các triệu chứng dị ứng.\n\nPhòng yêu cầu: Phòng khám / Phòng quan sát / ICU / Văn phòng / Đơn vị chẩn đoán tại Ngoại khoa tổng quát / Nội khoa / Thần kinh / Chấn thương</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>TRT_ANTIHISTAMINES_DESCRIPTION</LocID>                      <Text>Thuốc điều trị dị ứng, chống lại hoạt động của các thụ thể histamine, là nguyên nhân gây ra các triệu chứng dị ứng.\n\nPhòng yêu cầu: Phòng khám / Phòng quan sát / ICU / Phòng khám / Đơn vị chẩn đoán tại Ngoại khoa tổng quát / Nội khoa / Thần kinh / Chấn thương</Text> </GameDBLocalizedString>
 
             <!--SCENARIO-->
             <GameDBLocalizedString> <LocID>LEVEL_SANDBOX_HOSPITAL_J</LocID>                            <Text>Chấn thương: Bệnh viện lớn</Text>	</GameDBLocalizedString>
