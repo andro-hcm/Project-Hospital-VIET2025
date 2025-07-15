@@ -119,8 +119,8 @@
 
             <!-- Note for translators: there's limited space in the UI for the names of the professions, so feel free to split them using a new line
                  (\n) like in the English version of the second text for each profession       -->
-            <GameDBLocalizedString>      <LocID>DLC_PHARMACOLOGIST</LocID>              <Text>Nhà dược học</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DLC_PHARMACOLOGIST_UI</LocID>           <Text>Nhà dược học\nchính</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DLC_PHARMACOLOGIST</LocID>              <Text>Dược sĩ</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DLC_PHARMACOLOGIST_UI</LocID>           <Text>Dược sĩ\nchính</Text>  </GameDBLocalizedString>
 
             <GameDBLocalizedString>      <LocID>DLC_GIFT_SHOP_VENDOR</LocID>            <Text>Người bán cửa hàng quà tặng</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DLC_GIFT_SHOP_VENDOR_UI</LocID>         <Text>Cửa hàng quà tặng\nngười bán</Text>  </GameDBLocalizedString>
@@ -185,16 +185,16 @@
             <!-- Departments -->
             <GameDBLocalizedString>     <LocID>DLC_DPT_ADMINISTRATIVE</LocID>                                   <Text>Bộ phận hành chính</Text>  </GameDBLocalizedString>
 
-            <GameDBLocalizedString>     <LocID>DLC_SKILL_LAB_SPECIALIST_SPEC_PHARMACOLOGY</LocID>               <Text>Dược học</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>     <LocID>DLC_SKILL_LAB_SPECIALIST_SPEC_PHARMACOLOGY</LocID>               <Text>Dược sĩ</Text></GameDBLocalizedString>
             <GameDBLocalizedString>     <LocID>DLC_SKILL_LAB_SPECIALIST_SPEC_PHARMACOLOGY_DESCRIPTION</LocID>   <Text>Dược sĩ bán thuốc cho bệnh nhân của bạn và đảm bảo họ nhận được liều lượng và hướng dẫn chính xác.</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>     <LocID>DLC_SKILL_JANITOR_SPEC_VENDOR</LocID>                            <Text>Người bán cửa hàng quà tặng</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>     <LocID>DLC_SKILL_JANITOR_SPEC_VENDOR_DESCRIPTION</LocID>                <Text>Người bán cửa hàng quà tặng bán quà cho các thành viên trong gia đình và bạn bè đến thăm bệnh nhân nằm viện.</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>     <LocID>DLC_SKILL_JANITOR_SPEC_VENDOR</LocID>                            <Text>Người bán</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>     <LocID>DLC_SKILL_JANITOR_SPEC_VENDOR_DESCRIPTION</LocID>                <Text>Người bán quà tặng bán quà cho các thành viên trong gia đình và bạn bè đến thăm bệnh nhân nằm viện.</Text></GameDBLocalizedString>
             <GameDBLocalizedString>     <LocID>DLC_SKILL_JANITOR_SPEC_MANAGER</LocID>                           <Text>Quản lý</Text></GameDBLocalizedString>
             <GameDBLocalizedString>     <LocID>DLC_SKILL_JANITOR_SPEC_MANAGER_DESCRIPTION</LocID>               <Text>Nếu một người quản lý được thuê cho Bộ phận hành chính, họ sẽ tăng hiệu quả tổng thể của tất cả các nhân viên vệ sinh trong bệnh viện và cho phép bạn chỉ định các nhân viên vệ sinh cho các phòng riêng lẻ. Nhân viên này cũng đóng vai trò là ông chủ của tất cả các nhân viên vệ sinh.</Text></GameDBLocalizedString>
 
             <GameDBLocalizedString>     <LocID>DLC_DPT_PATHOLOGY</LocID>                                        <Text>Khoa bệnh lý</Text>  </GameDBLocalizedString>
             
-            <GameDBLocalizedString>     <LocID>DLC_SKILL_DOC_SPEC_PATHOLOGY</LocID>                             <Text>Bệnh lý học</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>     <LocID>DLC_SKILL_DOC_SPEC_PATHOLOGY</LocID>                             <Text>Pháp y</Text></GameDBLocalizedString>
             <GameDBLocalizedString>     <LocID>DLC_SKILL_DOC_SPEC_PATHOLOGY_DESCRIPTION</LocID>                 <Text>Các nhà giải phẫu bệnh có hiểu biết rộng về nguyên nhân và ảnh hưởng của các bệnh hoặc chấn thương và cho phép bạn khám nghiệm tử thi.</Text></GameDBLocalizedString>
 
             <!-- RELATED FILE: StringTable[Language]Characters.xml -->
@@ -204,7 +204,7 @@
             
             <!-- RELATED FILE: StringTable[Language]BuildingMode.xml -->
             <GameDBLocalizedString>     <LocID>DLC_ROOM_TYPE_PHARMACY</LocID>                     <Text>Hiệu thuốc</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>     <LocID>DLC_ROOM_TYPE_PHARMACY_DESCRIPTION</LocID>         <Text>hiệu thuốc bệnh viện bán thuốc cho bệnh nhân của bạn. \nTối thiểu. yêu cầu nhân viên: 1x nhà dược học</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>     <LocID>DLC_ROOM_TYPE_PHARMACY_DESCRIPTION</LocID>         <Text>hiệu thuốc bệnh viện bán thuốc cho bệnh nhân của bạn. \nTối thiểu. yêu cầu nhân viên: 1x Dược sĩ</Text></GameDBLocalizedString>
 
             <GameDBLocalizedString>     <LocID>DLC_ROOM_TYPE_JANITOR_ADMIN</LocID>                <Text>Văn phòng dịch vụ</Text></GameDBLocalizedString>
             <GameDBLocalizedString>     <LocID>DLC_ROOM_TYPE_JANITOR_ADMIN_DESCRIPTION</LocID>    <Text>Phòng này cho phép bạn thuê một người quản lý, người làm tăng hiệu quả chung của tất cả các nhân viên vệ sinh trong bệnh viện và cho phép bạn phân công họ dọn dẹp từng phòng riêng lẻ. \nTối thiểu. yêu cầu nhân viên: 1x Quản lý vệ sinh</Text></GameDBLocalizedString>
