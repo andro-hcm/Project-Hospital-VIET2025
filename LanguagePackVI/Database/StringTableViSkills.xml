@@ -57,12 +57,12 @@
             
             <GameDBLocalizedString>      <LocID>SKILL_DOC_SPEC_GENERAL_SURGERY</LocID>                              <Text>Khoa ngoại</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SKILL_DOC_SPEC_GENERAL_SURGERY_DESCRIPTION</LocID>                  <Text>Chuyên môn Khoa ngoại được sử dụng trong khám và kê đơn điều trị tại Khoa ngoại và cho phép bác sĩ hỗ trợ Mổ.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SKILL_DOC_SPEC_OPERATIVE_SURGERY</LocID>                            <Text>Thực hành Mổ</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SKILL_DOC_SPEC_OPERATIVE_SURGERY_DESCRIPTION</LocID>                <Text>Thực hành Mổ cho phép bác sĩ làm phẫu thuật viên chính tại Khoa ngoại và ảnh hưởng đến tần suất cuộc Mổ sẽ kết thúc với biến chứng.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SKILL_DOC_SPEC_OPERATIVE_SURGERY</LocID>                            <Text>Mổ ngoại khoa</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SKILL_DOC_SPEC_OPERATIVE_SURGERY_DESCRIPTION</LocID>                <Text>Mổ ngoại khoa cho phép bác sĩ làm phẫu thuật viên chính tại Khoa ngoại và ảnh hưởng đến tần suất cuộc Mổ sẽ kết thúc với biến chứng.</Text>  </GameDBLocalizedString>
             
             <GameDBLocalizedString>      <LocID>SKILL_DOC_SPEC_INTERNAL_MEDICINE</LocID>                            <Text>Khoa nội</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SKILL_DOC_SPEC_INTERNAL_MEDICINE_DESCRIPTION</LocID>                <Text>Chuyên môn Khoa nội được sử dụng trong khám chuyên khoa và kê đơn điều trị tại khoa nội khoa và cho phép bác sĩ hỗ trợ Mổ.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SKILL_DOC_SPEC_INTERNAL_MEDICINE_SURGERY</LocID>                    <Text>Mổ khoa nội</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SKILL_DOC_SPEC_INTERNAL_MEDICINE_SURGERY</LocID>                    <Text>Mổ nội khoa</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SKILL_DOC_SPEC_INTERNAL_MEDICINE_SURGERY_DESCRIPTION</LocID>        <Text>Khoa nội cho phép bác sĩ làm phẫu thuật viên chính tại khoa nội khoa và ảnh hưởng đến tần suất cuộc Mổ sẽ kết thúc với biến chứng.</Text>  </GameDBLocalizedString>
             
             <GameDBLocalizedString>      <LocID>SKILL_DOC_SPEC_ORTHOPAEDY</LocID>                                   <Text>Chỉnh hình</Text>  </GameDBLocalizedString>
