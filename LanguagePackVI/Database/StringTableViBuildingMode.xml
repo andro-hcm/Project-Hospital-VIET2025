@@ -217,7 +217,7 @@
             <GameDBLocalizedString>      <LocID>ROOM_TYPE_INTENSIVE_CARE_UNIT_DESCRIPTION</LocID>           <Text>Đơn vị chăm sóc đặc biệt cung cấp dịch vụ chăm sóc y tế cao cấp cho bệnh nhân quan trọng để duy trì các chức năng quan trọng của họ.\n\nTối thiểu. Yêu cầu nhân viên: \n1x Bác sĩ \n1x Y tá \n(Nhân sự cơ bản tại Phòng trực và Phòng trực y tá)</Text>  </GameDBLocalizedString>
 
             <GameDBLocalizedString>      <LocID>ROOM_TYPE_GENERAL_SURGERY_OFFICE</LocID>                <Text>Phòng khám</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>ROOM_TYPE_GENERAL_SURGERY_OFFICE_DESCRIPTION</LocID>    <Text>Phòng khám< là Phòng thường cho bệnh nhân ngoại trú.\n\nTối thiểu. Yêu cầu nhân viên: \n1x Bác sĩ</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ROOM_TYPE_GENERAL_SURGERY_OFFICE_DESCRIPTION</LocID>    <Text>Phòng khám là Phòng thường cho bệnh nhân ngoại trú.\n\nTối thiểu. Yêu cầu nhân viên: \n1x Bác sĩ</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>ROOM_TYPE_INTERNAL_MEDICINE_OFFICE</LocID>              <Text>Phòng khám</Text>   </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>ROOM_TYPE_INTERNAL_MEDICINE_OFFICE_DESCRIPTION</LocID>  <Text>Phòng khám\n\nTối thiểu. Yêu cầu nhân viên: \n1x Bác sĩ</Text></GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>ROOM_TYPE_ORTHOPAEDICS_OFFICE</LocID>                   <Text>Phòng khám</Text>   </GameDBLocalizedString>
