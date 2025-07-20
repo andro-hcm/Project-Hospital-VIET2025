@@ -42,28 +42,28 @@
             
             
             <!-- Doctor's QUALIFICATIONS -->
-            <GameDBLocalizedString>      <LocID>SKILL_DOC_QUALIF_GENERAL_MEDICINE</LocID>                           <Text>Y học tổng hợp</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SKILL_DOC_QUALIF_GENERAL_MEDICINE_DESCRIPTION</LocID>               <Text>Trình độ chuyên môn Y khoa tổng hợp cho phép bác sĩ thực hiện tất cả kiểm tra và điều trị cơ bản và ảnh hưởng đến tốc độ của họ.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SKILL_DOC_QUALIF_DIAGNOSIS</LocID>                                  <Text>Chẩn đoán</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SKILL_DOC_QUALIF_DIAGNOSIS_DESCRIPTION</LocID>                      <Text>Trình độ chuyên môn chẩn đoán ảnh hưởng đến mức độ thường xuyên bác sĩ sẽ chẩn đoán nhầm bệnh nhân hoặc phải hỏi ý kiến các bác sĩ khác.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SKILL_DOC_QUALIF_GENERAL_MEDICINE</LocID>                           <Text>Y cơ bản</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SKILL_DOC_QUALIF_GENERAL_MEDICINE_DESCRIPTION</LocID>               <Text>Trình độ Chứng chỉ Y cơ bản cho phép bác sĩ thực hiện tất cả kiểm tra và điều trị cơ bản và ảnh hưởng đến tốc độ của họ.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SKILL_DOC_QUALIF_DIAGNOSIS</LocID>                                  <Text>Chẩn đoán cơ bản</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SKILL_DOC_QUALIF_DIAGNOSIS_DESCRIPTION</LocID>                      <Text>Trình độ chẩn đoán ảnh hưởng đến mức độ thường xuyên bác sĩ sẽ chẩn đoán nhầm bệnh nhân hoặc phải hỏi ý kiến các bác sĩ khác.</Text>  </GameDBLocalizedString>
 
             <!-- Doctor's SPECIALIZATIONS -->
-            <GameDBLocalizedString>      <LocID>SKILL_DOC_SPEC_ACUTE_MEDICINE</LocID>                               <Text>Y học cấp cứu</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SKILL_DOC_SPEC_ACUTE_MEDICINE_DESCRIPTION</LocID>                   <Text>Y học cấp cứu cho phép tiếp cận các thủ thuật chuyên biệt để chẩn đoán và điều trị các bệnh nhân hiểm nghèo cần cấp cứu.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SKILL_DOC_SPEC_ACUTE_MEDICINE</LocID>                               <Text>Y chuyên khoa</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SKILL_DOC_SPEC_ACUTE_MEDICINE_DESCRIPTION</LocID>                   <Text>Y chuyên khoa cho phép tiếp cận các thủ thuật chuyên biệt để chẩn đoán và điều trị các bệnh nhân hiểm nghèo cần cấp cứu.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SKILL_DOC_SPEC_ADVANCED_DIAGNOSIS</LocID>                           <Text>Chẩn đoán nâng cao</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SKILL_DOC_SPEC_ADVANCED_DIAGNOSIS_DESCRIPTION</LocID>               <Text>Chuyên môn chẩn đoán nâng cao cho phép bác sĩ tiếp cận với chẩn đoán khác biệt.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SKILL_DOC_SPEC_CRITICAL_CARE</LocID>                                <Text>Y học chăm sóc quan trọng</Text> </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SKILL_DOC_SPEC_CRITICAL_CARE_DESCRIPTION</LocID>                    <Text>Y học chăm sóc quan trọng cho phép bác sĩ tiếp cận với phương pháp chẩn đoán chuyên biệt được sử dụng tại ICU.</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SKILL_DOC_SPEC_CRITICAL_CARE</LocID>                                <Text>Chứng chỉ ICU</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SKILL_DOC_SPEC_CRITICAL_CARE_DESCRIPTION</LocID>                    <Text>Chứng chỉ ICU cho phép bác sĩ tiếp cận với phương pháp chẩn đoán chuyên biệt được sử dụng tại ICU.</Text></GameDBLocalizedString>
             
             <GameDBLocalizedString>      <LocID>SKILL_DOC_SPEC_GENERAL_SURGERY</LocID>                              <Text>Khoa ngoại</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SKILL_DOC_SPEC_GENERAL_SURGERY_DESCRIPTION</LocID>                  <Text>Chuyên môn Khoa ngoại được sử dụng trong khám và kê đơn điều trị tại Khoa ngoại và cho phép bác sĩ hỗ trợ Mổ.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SKILL_DOC_SPEC_OPERATIVE_SURGERY</LocID>                            <Text>Thực hành Mổ</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SKILL_DOC_SPEC_OPERATIVE_SURGERY_DESCRIPTION</LocID>                <Text>Thực hành Mổ cho phép bác sĩ làm phẫu thuật viên chính tại Khoa ngoại và ảnh hưởng đến tần suất cuộc Mổ sẽ kết thúc với biến chứng.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SKILL_DOC_SPEC_OPERATIVE_SURGERY</LocID>                            <Text>Ngoại phẫu</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SKILL_DOC_SPEC_OPERATIVE_SURGERY_DESCRIPTION</LocID>                <Text>Ngoại phẫu cho phép bác sĩ làm phẫu thuật viên chính tại Khoa ngoại và ảnh hưởng đến tần suất cuộc Mổ sẽ kết thúc với biến chứng.</Text>  </GameDBLocalizedString>
             
             <GameDBLocalizedString>      <LocID>SKILL_DOC_SPEC_INTERNAL_MEDICINE</LocID>                            <Text>Khoa nội</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SKILL_DOC_SPEC_INTERNAL_MEDICINE_DESCRIPTION</LocID>                <Text>Chuyên môn Khoa nội được sử dụng trong khám chuyên khoa và kê đơn điều trị tại khoa nội khoa và cho phép bác sĩ hỗ trợ Mổ.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SKILL_DOC_SPEC_INTERNAL_MEDICINE_SURGERY</LocID>                    <Text>Mổ khoa nội</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SKILL_DOC_SPEC_INTERNAL_MEDICINE_SURGERY_DESCRIPTION</LocID>        <Text>Khoa nội cho phép bác sĩ làm phẫu thuật viên chính tại khoa nội khoa và ảnh hưởng đến tần suất cuộc Mổ sẽ kết thúc với biến chứng.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SKILL_DOC_SPEC_INTERNAL_MEDICINE_SURGERY</LocID>                    <Text>Nội phẫu</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SKILL_DOC_SPEC_INTERNAL_MEDICINE_SURGERY_DESCRIPTION</LocID>        <Text>Nội phẫu cho phép bác sĩ làm phẫu thuật viên chính tại khoa nội khoa và ảnh hưởng đến tần suất cuộc Mổ sẽ kết thúc với biến chứng.</Text>  </GameDBLocalizedString>
             
             <GameDBLocalizedString>      <LocID>SKILL_DOC_SPEC_ORTHOPAEDY</LocID>                                   <Text>Chỉnh hình</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SKILL_DOC_SPEC_ORTHOPAEDY_DESCRIPTION</LocID>                       <Text>Chỉnh hình được sử dụng trong khám chuyên khoa và kê đơn điều trị tại khoa chỉnh hình và cho phép bác sĩ hỗ trợ Mổ.</Text>  </GameDBLocalizedString>
@@ -85,16 +85,16 @@
 
             
             <!-- Nurse's QUALIFICATIONS -->
-            <GameDBLocalizedString>      <LocID>SKILL_NURSE_QUALIF_PATIENT_CARE</LocID>                             <Text>Chăm sóc bệnh nhân</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SKILL_NURSE_QUALIF_PATIENT_CARE</LocID>                             <Text>Chăm sóc</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SKILL_NURSE_QUALIF_PATIENT_CARE_DESCRIPTION</LocID>                 <Text>Y tá có khả năng cung cấp loại hình chăm sóc bệnh nhân.</Text>  </GameDBLocalizedString>
 
             <!-- Nurse's SPECIALIZATIONS -->
             <GameDBLocalizedString>      <LocID>SKILL_NURSE_SPEC_RECEPTIONIST</LocID>                               <Text>Lễ tân</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SKILL_NURSE_SPEC_RECEPTIONIST_DESCRIPTION</LocID>                   <Text>Lễ tân đại diện cho điểm tiếp xúc đầu tiên với bệnh nhân.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SKILL_NURSE_SPEC_MEDICAL_SURGERY</LocID>                            <Text>Y tá mổ</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SKILL_NURSE_SPEC_MEDICAL_SURGERY</LocID>                            <Text>Y tá Mổ</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SKILL_NURSE_SPEC_MEDICAL_SURGERY_DESCRIPTION</LocID>                <Text>Y tá Mổ đại diện cho bộ phận quan trọng của đội Mổ.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SKILL_NURSE_SPEC_CLINICAL_SPECIALIST</LocID>                        <Text>Y tá chuyên lâm sàng</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SKILL_NURSE_SPEC_CLINICAL_SPECIALIST_DESCRIPTION</LocID>            <Text>Y tá chuyên lâm sàng có khả năng phát hiện triệu chứng của bệnh nhân.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SKILL_NURSE_SPEC_CLINICAL_SPECIALIST</LocID>                        <Text>Y tá lâm sàng</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SKILL_NURSE_SPEC_CLINICAL_SPECIALIST_DESCRIPTION</LocID>            <Text>Y tá lâm sàng có khả năng phát hiện triệu chứng của bệnh nhân.</Text>  </GameDBLocalizedString>
 
             
             <!-- Lab guys QUALIFICATIONS -->
