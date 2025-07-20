@@ -221,7 +221,7 @@
 
             <!-- Patient states -->
             <GameDBLocalizedString>      <LocID>Spawned</LocID>                                     <Text>Sinh ra</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>Idle</LocID>                                        <Text>Nhàn rỗi</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>Idle</LocID>                                        <Text>Không có việc làm</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>GoingToReception</LocID>                            <Text>Đi đến lễ tân</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>GoingToReceptionist</LocID>                         <Text>Đi đến lễ tân</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>ExaminedAtReception</LocID>                         <Text>Tại lễ tân</Text>  </GameDBLocalizedString>
@@ -234,7 +234,7 @@
             <GameDBLocalizedString>      <LocID>WaitingSitting</LocID>                              <Text>Đang chờ</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>WaitingStandingIdle</LocID>                         <Text>Đang chờ</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>WaitingBeingCalled</LocID>                          <Text>Được gọi là</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>FulfillingNeeds</LocID>                             <Text>Đáp ứng nhu cầu</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>FulfillingNeeds</LocID>                             <Text>Ăn uống ẻ đái</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>GoingToDoctor</LocID>                               <Text>Đi đến bác sĩ</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>BeingExamined</LocID>                               <Text>Đã kiểm tra</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>BeingTreated</LocID>                                <Text>Đã điều trị</Text>  </GameDBLocalizedString>
@@ -248,16 +248,16 @@
             <GameDBLocalizedString>      <LocID>WaitForOnCallRoomDoctor</LocID>                     <Text>Chờ bác sĩ</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>GoingToStatLab</LocID>                              <Text>Đi tới phòng thí nghiệm STAT</Text>  </GameDBLocalizedString>
 
-            <GameDBLocalizedString>      <LocID>Collapsing</LocID>                                  <Text>Đột quỵ</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>Collapsing</LocID>                                  <Text>Hấp hối</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>GoingToCollapse</LocID>                             <Text>Không có cảm giác... Quá tốt...</Text>  </GameDBLocalizedString>
 
             <!-- Hospitalization states -->
             <GameDBLocalizedString>      <LocID>HOSPITALIZED_Idle</LocID>                           <Text>Rảnh rổi</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>HOSPITALIZED_GoingToBed</LocID>                     <Text>đi ngủ</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>HOSPITALIZED_InBed</LocID>                          <Text>nhàn rỗi trên giường</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>HOSPITALIZED_FulfillingNeeds</LocID>                <Text>Đáp ứng nhu cầu</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>HOSPITALIZED_FillingFreeTime</LocID>                <Text>Sinh hoạt khi rảnh</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>HOSPITALIZED_FillingFreeTimeLying</LocID>           <Text>Sinh hoạt khi rảnh</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>HOSPITALIZED_InBed</LocID>                          <Text>Không có việc làm trên giường</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>HOSPITALIZED_FulfillingNeeds</LocID>                <Text>Ăn uống ẻ đái</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>HOSPITALIZED_FillingFreeTime</LocID>                <Text>Làm việc vặt</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>HOSPITALIZED_FillingFreeTimeLying</LocID>           <Text>Làm việc vặt</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>HOSPITALIZED_Eating</LocID>                         <Text>ăn</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>HOSPITALIZED_Sleeping</LocID>                       <Text>ngủ</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>HOSPITALIZED_BlockedByAmbiguousResults</LocID>      <Text>chẩn đoán mơ hồ</Text>  </GameDBLocalizedString>
@@ -277,9 +277,9 @@
             <GameDBLocalizedString>      <LocID>HOSPITALIZED_BeingTransportedToExamination</LocID>  <Text>chuyển đi khám</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>HOSPITALIZED_BeingTransportedFromExamination</LocID><Text>chuyển từ khám</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>HOSPITALIZED_BeingTransportedBackToRoom</LocID>     <Text>chuyển đến phòng</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>HOSPITALIZED_GoingToCollapse</LocID>                <Text>Đột quỵ</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>HOSPITALIZED_Collapsing</LocID>                     <Text>Đột quỵ</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>HOSPITALIZED_CollapsingInBed</LocID>                <Text>Đột quỵ</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>HOSPITALIZED_GoingToCollapse</LocID>                <Text>Hấp hối</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>HOSPITALIZED_Collapsing</LocID>                     <Text>Hấp hối</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>HOSPITALIZED_CollapsingInBed</LocID>                <Text>Hấp hối</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>HOSPITALIZED_FindNewBed</LocID>                     <Text>chờ giường</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>HOSPITALIZED_WaitingForBed</LocID>                  <Text>chờ giường</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>HOSPITALIZED_WaitingForStabilization</LocID>        <Text>chờ ổn định</Text>  </GameDBLocalizedString>
@@ -304,12 +304,12 @@
             <GameDBLocalizedString>      <LocID>EMPL_ROLE_CLEANING</LocID>                          <Text>Dọn dẹp</Text>  </GameDBLocalizedString>
 
             <!-- Doctor states -->
-            <GameDBLocalizedString>      <LocID>DOCTOR_STATE_Idle</LocID>                           <Text>Nhàn rỗi</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DOCTOR_STATE_FinishedProcedure</LocID>              <Text>Nhàn rỗi</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DOCTOR_STATE_Idle</LocID>                           <Text>Không có việc làm</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DOCTOR_STATE_FinishedProcedure</LocID>              <Text>Không có việc làm</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DOCTOR_STATE_GoingToWorkPlace</LocID>               <Text>Đi đến nơi làm việc</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DOCTOR_STATE_FulfilingNeeds</LocID>                 <Text>Đáp ứng nhu cầu</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DOCTOR_STATE_FulfilingNeeds</LocID>                 <Text>Ăn uống ẻ đái</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DOCTOR_STATE_FilingReports</LocID>                  <Text>Viết báo cáo</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DOCTOR_STATE_FillingFreeTime</LocID>                <Text>Sinh hoạt khi rảnh</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DOCTOR_STATE_FillingFreeTime</LocID>                <Text>Làm việc vặt</Text>  </GameDBLocalizedString>
             <!-- UPDATED --><GameDBLocalizedString>      <LocID>DOCTOR_STATE_OverridenByProcedureScript</LocID>     <Text>Thực hành:</Text>  </GameDBLocalizedString>
             <!-- UPDATED --><GameDBLocalizedString>      <LocID>DOCTOR_STATE_OverridenReservedForProcedure</LocID>  <Text>Dành cho:</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DOCTOR_STATE_DoctorsRounds</LocID>                  <Text>Thực hiện vòng người bệnh</Text>  </GameDBLocalizedString>
@@ -319,15 +319,15 @@
             <GameDBLocalizedString>      <LocID>DOCTOR_STATE_FiredAtHome</LocID>                    <Text>Bị sa thải</Text>  </GameDBLocalizedString>
             
             <!-- Nurse states -->
-            <GameDBLocalizedString>      <LocID>NURSE_STATE_Idle</LocID>                            <Text>Nhàn rỗi</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>NURSE_STATE_FinishedProcedure</LocID>               <Text>Nhàn rỗi</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>NURSE_STATE_Idle</LocID>                            <Text>Không có việc làm</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>NURSE_STATE_FinishedProcedure</LocID>               <Text>Không có việc làm</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>NURSE_STATE_FinishedProcedureWaitWithPatient</LocID><Text>Chờ đợi với bệnh nhân</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>NURSE_STATE_GoingToWorkplace</LocID>                <Text>Đi đến nơi làm việc</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>NURSE_STATE_DeliveringFood</LocID>                  <Text>Giao đồ ăn</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>NURSE_STATE_PatientCheckUp</LocID>                  <Text>Kiểm tra bệnh nhân</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>NURSE_STATE_DeliveringMedicine</LocID>              <Text>Cung cấp thuốc</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>NURSE_STATE_FulfillingNeeds</LocID>                 <Text>Đáp ứng nhu cầu</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>NURSE_STATE_FillingFreeTime</LocID>                 <Text>Sinh hoạt khi rảnh</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>NURSE_STATE_FulfillingNeeds</LocID>                 <Text>Ăn uống ẻ đái</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>NURSE_STATE_FillingFreeTime</LocID>                 <Text>Làm việc vặt</Text>  </GameDBLocalizedString>
             <!-- UPDATED --><GameDBLocalizedString>      <LocID>NURSE_STATE_OverridenByProcedureScript</LocID>      <Text>Thực hành:</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>NURSE_STATE_OverridenGoingToStretcher</LocID>       <Text>Lấy cáng</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>NURSE_STATE_OverridenMovingStretcher</LocID>        <Text>Di chuyển cáng</Text>  </GameDBLocalizedString>
@@ -347,16 +347,16 @@
             <GameDBLocalizedString>      <LocID>JANITOR_STATE_WalkingToCart</LocID>                 <Text>Dọn dẹp</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>JANITOR_STATE_WalkingToCartToNextRoom</LocID>       <Text>Dọn dẹp</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>JANITOR_STATE_WalkingToNextRoom</LocID>             <Text>Dọn dẹp</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>JANITOR_STATE_FulfillingNeeds</LocID>               <Text>Đáp ứng nhu cầu</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>JANITOR_STATE_FulfillingNeeds</LocID>               <Text>Ăn uống ẻ đái</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>JANITOR_STATE_Cleaning</LocID>                      <Text>Dọn dẹp</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>JANITOR_STATE_GoingToReturnCart</LocID>             <Text>Trả lại xe đẩy</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>JANITOR_STATE_ReturningCart</LocID>                 <Text>Trả lại xe đẩy</Text>  </GameDBLocalizedString>
             
             <!-- Technologist states -->
-            <GameDBLocalizedString>      <LocID>TECHNOLOGIST_STATE_Idle</LocID>                     <Text>Nhàn rỗi</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TECHNOLOGIST_STATE_Idle</LocID>                     <Text>Không có việc làm</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>TECHNOLOGIST_STATE_GoingToWorkplace</LocID>         <Text>Đi đến nơi làm việc</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>TECHNOLOGIST_STATE_FulfillingNeeds</LocID>          <Text>Đáp ứng nhu cầu</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>TECHNOLOGIST_STATE_FillingFreeTime</LocID>          <Text>Sinh hoạt khi rảnh</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TECHNOLOGIST_STATE_FulfillingNeeds</LocID>          <Text>Ăn uống ẻ đái</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TECHNOLOGIST_STATE_FillingFreeTime</LocID>          <Text>Làm việc vặt</Text>  </GameDBLocalizedString>
             <!-- UPDATED --><GameDBLocalizedString>      <LocID>TECHNOLOGIST_STATE_OverridenByProcedureScript</LocID><Text>Thực hành:</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>TECHNOLOGIST_STATE_GoingHome</LocID>                <Text>Về nhà</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>TECHNOLOGIST_STATE_AtHome</LocID>                   <Text>Ở nhà</Text>  </GameDBLocalizedString>
