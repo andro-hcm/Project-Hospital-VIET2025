@@ -125,7 +125,7 @@
             <GameDBLocalizedString>      <LocID>LOADING_TIP_BUILDING</LocID>                     <Text>Bạn có thể mở rộng các tầng trên mặt đất bằng cách sử dụng công cụ móng, chúng thậm chí có thể vượt ra khỏi tầng bên dưới.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>LOADING_TIP_JANITORS</LocID>                     <Text>Khi nhân viên vệ sinh dọn dẹp xong bộ phận của họ, họ sẽ giúp việc khác.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>LOADING_TIP_MOVING_OBJ</LocID>                   <Text>Bạn có thể di chuyển đối tượng đính kèm (giống như cái bàn với máy tính), để chỉ chọn đính kèm, hãy giữ [CTRL].</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>LOADING_TIP_RECEPTION</LocID>                    <Text>Nhân viên lễ tân chỉ định mức độ ưu tiên cao hơn cho trường hợp quan trọng hơn trong cuộc thử nghiệm.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>LOADING_TIP_RECEPTION</LocID>                    <Text>Lễ tân chỉ định mức độ ưu tiên cao hơn cho trường hợp quan trọng hơn trong cuộc thử nghiệm.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>LOADING_TIP_COFFEE_MAKER</LocID>                 <Text>Không có máy pha cà phê trong phòng sinh hoạt chung? Nghiêm trọng? :)</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>LOADING_TIP_ROLES_CARD</LocID>                   <Text>Để tối đa hóa hiệu suất của nhân viên, bạn có thể bật/tắt vai trò cụ thể. Ví dụ, bạn có thể tạo nhóm phẫu thuật chuyên dụng.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>LOADING_TIP_OBSERVATION</LocID>                  <Text>Nhận những ca phức tạp để quan sát, bác sĩ tại phòng khám cũng sẽ rãnh khám cho bệnh nhân khác.</Text>  </GameDBLocalizedString>
@@ -182,10 +182,10 @@
             <GameDBLocalizedString>      <LocID>PROCEDURE_STATISTICS_STABILIZATIONS</LocID>      <Text>Ổn định</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>PROCEDURE_STATISTICS_SURGERIES</LocID>           <Text>Phẫu thuật</Text>  </GameDBLocalizedString>
 
-            <GameDBLocalizedString>      <LocID>NO_NIGHT_SHIFT_WITHOUT_DAY_CLINIC</LocID>        <Text>Ca đêm ở phòng khám cần ca ngày được biên chế trước.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>NO_NIGHT_SHIFT_WITHOUT_DAY_CLINIC</LocID>        <Text>Ca đêm ở phòng khám cần ca ngày trước.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>NO_NIGHT_SHIFT_WITHOUT_EMERGENCY</LocID>         <Text>Ca đêm ở phòng khám chuyên khoa cần ca đêm cấp cứu.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>EMPLOYEE_IS_MISSING_SKILL</LocID>                <Text>Nhân viên được chọn không có chuyên môn cần thiết cho phòng này.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>NO_INTERNS_IN_ON_CALL_ROOM</LocID>               <Text>Thực tập sinh không được chỉ định vào phòng theo cuộc gọi.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>NO_INTERNS_IN_ON_CALL_ROOM</LocID>               <Text>Thực tập sinh không được chỉ định vào phòng trực.</Text>  </GameDBLocalizedString>
 
             <GameDBLocalizedString>      <LocID>NOTIF_EVENT_FAILED_TEXT_V2</LocID>               <Text>Bạn không hoàn thành sự kiện kịp thời hoặc bệnh nhân của bạn bị chẩn đoán sai, tử vong hoặc chuyển đi. Uy tín của bạn giảm cho ngày này hoặc cho đến khi bạn hoàn thành thành công sự kiện khác.\nBạn cũng bị phạt: {1}$</Text>  </GameDBLocalizedString>
 
@@ -276,12 +276,12 @@
             <GameDBLocalizedString>      <LocID>NOTIF_RANDOM_EVENT_START</LocID>                     <Text>Tin nóng:</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>NOTIF_RANDOM_EVENT_START_TEXT</LocID>                <Text>{1}</Text>  </GameDBLocalizedString>
                                                                                                      
-            <GameDBLocalizedString>      <LocID>NOTIF_RELEASE_NO_CLINIC_ON_DEPARTMENT</LocID>        <Text>Bệnh nhân không thể được giải phóng khỏi quan sát!</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>NOTIF_RELEASE_NO_CLINIC_ON_DEPARTMENT_TEXT</LocID>   <Text>Bệnh nhân nên tiếp tục đến phòng khám {1}, nhưng nó hiện đang đóng cửa. Thay vào đó chúng tôi sẽ cố gắng chuyển viện cho bệnh nhân tại khoa.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>NOTIF_RELEASE_NO_CLINIC_ON_DEPARTMENT</LocID>        <Text>Bệnh nhân không thể trở lại phòng khám !</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>NOTIF_RELEASE_NO_CLINIC_ON_DEPARTMENT_TEXT</LocID>   <Text>Bệnh nhân nên đến phòng khám {1}, nhưng đang đóng. Thay vào đó chúng tôi sẽ cố gắng chuyển viện cho bệnh nhân tại khoa.</Text>  </GameDBLocalizedString>
                                                                                                      
             <GameDBLocalizedString>      <LocID>POPUP_OPEN_DEPARTMENT_STATISTIC</LocID>              <Text>Mở thống kê</Text>  </GameDBLocalizedString>
                                                                                                      
-            <GameDBLocalizedString>      <LocID>NOTIF_NO_PATH</LocID>                                <Text>Không tìm thấy đường dẫn</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>NOTIF_NO_PATH</LocID>                                <Text>Không tìm thấy đường</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>NOTIF_NO_PATH_TEXT</LocID>                           <Text>Nhân vật không tìm ra cách, vì có thể có thứ gì đó chặn nó.\nNhân vật sẽ cố tìm cách mới, nếu có. Nhưng hãy nhớ kiểm tra các cửa bị hỏng, thang máy bị chặn hoặc khu vực hạn chế trên đường đi.</Text>  </GameDBLocalizedString>
             
             <GameDBLocalizedString>      <LocID>NOTIF_NO_AVAILABLE_DOCTOR</LocID>                   <Text>Không có bác sĩ chẩn đoán nào</Text>  </GameDBLocalizedString>
@@ -302,7 +302,7 @@
             
             <GameDBLocalizedString>      <LocID>NOT_PRESCRIBABLE_DEPARTMENT</LocID>                  <Text>Không thể được kê đơn tại bộ phận này</Text>  </GameDBLocalizedString>
 
-            <GameDBLocalizedString>      <LocID>EMPL_ROLE_RECEPTIONIST</LocID>                       <Text>Nhân viên lễ tân</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>EMPL_ROLE_RECEPTIONIST</LocID>                       <Text>Lễ tân</Text>  </GameDBLocalizedString>
 
 
             <!-- RELATED FILE: StringTable[Language]Tutorial.xml -->
