@@ -12,7 +12,7 @@
         <LocalizedStrings>
 
             <!-- RELATED FILE: StringTable[Language]UI.xml -->
-            <GameDBLocalizedString>      <LocID>NEW_GAME_MAIN_MENU</LocID>                       <Text>Trò chơi mới</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>NEW_GAME_MAIN_MENU</LocID>                       <Text>TRÒ CHƠI MỚI</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>COMPLETED</LocID>                                <Text>Hoàn thành</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>LOCKED</LocID>                                   <Text>Đã khóa</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SCENARIOS</LocID>                                <Text>Kịch bản</Text>  </GameDBLocalizedString>
@@ -21,7 +21,7 @@
             <GameDBLocalizedString>      <LocID>CHECK_SAVE</LocID>                               <Text>Kiểm tra lưu</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>CAN_NOT_BE_LOADED_MODS</LocID>                   <Text>Trò chơi được lưu trữ bằng các mod/addon hiện chưa được cài đặt và không thể tải được.</Text>  </GameDBLocalizedString>
 
-            <GameDBLocalizedString>      <LocID>GAME_SAVED</LocID>                               <Text>Trò chơi đã lưu.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>GAME_SAVED</LocID>                               <Text>TRÒ CHƠI ĐÃ LƯU.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SCENARIO_CREATED</LocID>                         <Text>Kịch bản đã tạo.</Text>  </GameDBLocalizedString>
             
             <GameDBLocalizedString>      <LocID>WORKSHOP</LocID>                                 <Text>WORKSHOP</Text>  </GameDBLocalizedString>
@@ -155,8 +155,8 @@
             <GameDBLocalizedString>      <LocID>MANAGEMENT_HEADING_WORKLOAD_NIGHT</LocID>        <Text>Workload đêm</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>MANAGEMENT_HEADING_WORKLOAD_STAFF</LocID>        <Text>Workload hiện tại của nhân viên</Text>  </GameDBLocalizedString>
 
-            <GameDBLocalizedString>      <LocID>WORKLOAD_ON_CALL_ROOM</LocID>                    <Text>Phòng đang gọi</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>WORKLOAD_NURSES_STATION</LocID>                  <Text>Trạm y tá</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>WORKLOAD_ON_CALL_ROOM</LocID>                    <Text>Phòng trực</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>WORKLOAD_NURSES_STATION</LocID>                  <Text>Phòng trực y tá</Text>  </GameDBLocalizedString>
 
             <GameDBLocalizedString>      <LocID>MANAGEMENT_HEADING_PROCEDURES</LocID>            <Text>Thủ tục</Text>  </GameDBLocalizedString>
 
@@ -165,13 +165,13 @@
             <GameDBLocalizedString>      <LocID>CLINIC_STATISTICS_TREATED</LocID>                <Text>Đã điều trị</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>CLINIC_STATISTICS_HOSPITALIZED</LocID>           <Text>Nhập viện</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>CLINIC_STATISTICS_SENT_TO_OTHER_DPT</LocID>      <Text>Gửi đến bộ phận chuyên môn</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>CLINIC_STATISTICS_COLLAPSED</LocID>              <Text>Sụp đổ</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>CLINIC_STATISTICS_COLLAPSED</LocID>              <Text>Hấp hối</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>CLINIC_STATISTICS_UNTREATED</LocID>              <Text>Chưa điều trị</Text>  </GameDBLocalizedString>
             
             <GameDBLocalizedString>      <LocID>CLINIC_STATISTICS_TIME_TO_SEE_DOCTOR</LocID>     <Text>Thời gian trung bình gặp bác sĩ</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>CLINIC_STATISTICS_TIME_TO_SEE_SPECIALIST</LocID> <Text>Thời gian chờ trung bình chuyên ngành</Text>  </GameDBLocalizedString>
 
-            <GameDBLocalizedString>      <LocID>HOSPITALIZATION_STATISTICS_RELEASED</LocID>      <Text> xuất viện</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>HOSPITALIZATION_STATISTICS_RELEASED</LocID>      <Text>xuất viện</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>HOSPITALIZATION_STATISTICS_DEAD</LocID>          <Text>chết</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>HOSPITALIZATION_STATISTICS_COLLAPSED</LocID>     <Text>sụp đổ</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>HOSPITALIZATION_STATISTICS_UNTREATED</LocID>     <Text>chưa điều trị</Text>  </GameDBLocalizedString>
