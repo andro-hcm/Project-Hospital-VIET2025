@@ -65,19 +65,19 @@
             <GameDBLocalizedString>      <LocID>NOTIF_CHARACTER_LEVELED_UP</LocID>           <Text>Nhân viên lên cấp!</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>NOTIF_CHARACTER_LEVELED_UP_TEXT</LocID>      <Text>Nhân viên lên cấp, bây giờ là {1}!</Text>  </GameDBLocalizedString>
   
-            <GameDBLocalizedString>      <LocID>NOTIF_CHARACTER_LEVELED_UP_FIRST_SPECIALIZATION</LocID>       <Text>Nhân viên lên cấp (chuyên môn có sẵn)!</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>NOTIF_CHARACTER_LEVELED_UP_FIRST_SPECIALIZATION</LocID>       <Text>Nhân viên lên cấp (skill 1)!</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>NOTIF_CHARACTER_LEVELED_UP_FIRST_SPECIALIZATION_TEXT</LocID>  <Text><![CDATA[Nhân viên lên cấp, bây giờ là <i>{1}</i> và chọn chuyên môn đầu tiên! Nếu bạn muốn thay đổi nó, càng sớm càng tốt!]]></Text>  </GameDBLocalizedString>
             
-            <GameDBLocalizedString>      <LocID>NOTIF_CHARACTER_LEVELED_UP_SECOND_SPECIALIZATION</LocID>      <Text>Nhân viên lên cấp (chuyên môn có sẵn)!</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>NOTIF_CHARACTER_LEVELED_UP_SECOND_SPECIALIZATION</LocID>      <Text>Nhân viên lên cấp (skill 2)!</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>NOTIF_CHARACTER_LEVELED_UP_SECOND_SPECIALIZATION_TEXT</LocID> <Text><![CDATA[Nhân viên lên cấp, bây giờ là <i>{1}</i> và chọn chuyên môn thứ hai! Nếu bạn muốn thay đổi nó, càng sớm càng tốt!]]></Text>  </GameDBLocalizedString>
             
             <GameDBLocalizedString>      <LocID>NOTIF_NO_WORKSPACE</LocID>                   <Text>Nhân viên không có nơi làm việc.</Text>  </GameDBLocalizedString>
             <!-- UPDATED --><!--11/21/18--><GameDBLocalizedString><LocID>NOTIF_NO_WORKSPACE_TEXT</LocID><Text>Nhân viên không có nơi làm việc, sẽ nhàn rỗi. Tìm hoặc chỉ định nơi làm việc nhanh chóng hoặc nhân viên sẽ về nhà (không có phòng chung trên bộ phận nhân viên sẽ đi ngay lập tức).</Text>  </GameDBLocalizedString>
 
-            <GameDBLocalizedString>      <LocID>NOTIF_MISSING_SKILL</LocID>                  <Text>Nhân viên của Riku thiếu chuyên môn.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>NOTIF_MISSING_SKILL</LocID>                  <Text>Nhân viên thiếu chuyên môn.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>NOTIF_MISSING_SKILL_TEXT</LocID>             <Text><![CDATA[Chuyên môn <i>{1}</i> được yêu cầu cho nhân viên trong phòng này.]]></Text>  </GameDBLocalizedString>
       
-            <GameDBLocalizedString>      <LocID>NOTIF_ROOM_FULL</LocID>                      <Text>Nhân viên phòng khám cần có phòng riêng.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>NOTIF_ROOM_FULL</LocID>                      <Text>Phòng đầy.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>NOTIF_ROOM_FULL_TEXT</LocID>                 <Text>Nhân viên phòng khám không chia sẻ phòng của họ với các nhân viên khác (nhưng hãy thoải mái đặt nhiều điểm đánh dấu phòng trong tập hợp bức tường ở chế độ quản lý).</Text>  </GameDBLocalizedString>
 
             <GameDBLocalizedString>      <LocID>NOTIF_CHARACTER_FIRED</LocID>                <Text>Nhân viên bị Riku sa thải.</Text>  </GameDBLocalizedString>
@@ -154,12 +154,12 @@
             <GameDBLocalizedString>      <LocID>NOTIF_LONG_WAIT_FOR_TRANSPORT_TEXT</LocID>   <Text>Có đủ y tá rãnh để vận chuyển bệnh nhân không?</Text>  </GameDBLocalizedString>
             
             <GameDBLocalizedString>      <LocID>NOTIF_LONG_WAIT_FOR_DEFIBRILATION_STAFF</LocID><Text>Chờ khử rung tim lâu!</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>NOTIF_LONG_WAIT_FOR_DEFIBRILATION_STAFF_TEXT</LocID><Text>Có đủ nhân viên rãnh để khử rung tim không?</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>NOTIF_LONG_WAIT_FOR_DEFIBRILATION_STAFF_TEXT</LocID><Text>Có đủ bác sĩ rãnh để khử rung tim không?</Text>  </GameDBLocalizedString>
             
-            <GameDBLocalizedString>      <LocID>NOTIF_LONG_WAIT_FOR_DEFIBRILATION_NURSE</LocID><Text>Chờ khử rung tim lâu!</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>NOTIF_LONG_WAIT_FOR_DEFIBRILATION_NURSE</LocID><Text>Chờ y tá khử rung tim lâu!</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>NOTIF_LONG_WAIT_FOR_DEFIBRILATION_NURSE_TEXT</LocID><Text>Có đủ y tá rãnh để khử rung tim không?</Text>  </GameDBLocalizedString>
 
-            <GameDBLocalizedString>      <LocID>NOTIF_LONG_WAIT_FOR_TRANSPORT_DOCTOR</LocID><Text>Chờ khử rung tim lâu!</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>NOTIF_LONG_WAIT_FOR_TRANSPORT_DOCTOR</LocID><Text>Chờ bác sĩ khử rung tim lâu !</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>NOTIF_LONG_WAIT_FOR_TRANSPORT_DOCTOR_TEXT</LocID><Text>Có đủ bác sĩ rãnh để khử rung tim không?</Text>  </GameDBLocalizedString>
 
             <GameDBLocalizedString>      <LocID>NOTIF_SURGERY_ONLY_HOSPITALIZED</LocID>      <Text>Bệnh nhân cần nhập viện trước khi phẫu thuật!</Text>  </GameDBLocalizedString>
@@ -176,7 +176,7 @@
             <GameDBLocalizedString>      <LocID>NOTIF_EVENT_FAILED</LocID>                   <Text>Sự kiện thất bại.</Text>  </GameDBLocalizedString>
             <!-- UPDATED --> <GameDBLocalizedString>      <LocID>NOTIF_EVENT_FAILED_TEXT</LocID><Text>Bạn không hoàn thành sự kiện kịp thời hoặc một bệnh nhân của bạn chết hoặc bị chuyển đi. Uy tín của bạn giảm trong ngày này hoặc cho đến khi bạn hoàn thành sự kiện thành công.\nBạn cũng bị phạt tiền: {1}$</Text>  </GameDBLocalizedString>
 
-            <GameDBLocalizedString>      <LocID>NOTIF_PATIENT_DIED</LocID>              	 <Text>Bệnh nhân chết do bị Riku ám sát :(</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>NOTIF_PATIENT_DIED</LocID>              	 <Text>Bệnh nhân chết do Riku :(</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>NOTIF_PATIENT_DIED_TEXT</LocID>          	 <Text>Tình trạng của bệnh nhân rất nguy kịch và bất chấp những nỗ lực hết sức của bác sĩ, họ vẫn không cứu được. Một bệnh viện hiệu quả hơn sẽ giải quyết trường hợp này tốt hơn?</Text>  </GameDBLocalizedString>
 
             <GameDBLocalizedString>      <LocID>NOTIF_NO_TREATMENT_LEAVING</LocID>           <Text>Bệnh nhân đang đi về.</Text>  </GameDBLocalizedString>
