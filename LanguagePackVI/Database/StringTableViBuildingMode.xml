@@ -210,7 +210,7 @@
             <GameDBLocalizedString>      <LocID>ROOM_TYPE_ON_CALL_ROOM</LocID>                              <Text>Phòng trực bác sĩ</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>ROOM_TYPE_ON_CALL_ROOM_DESCRIPTION</LocID>                  <Text>Tất cả các bác sĩ cần thiết để điều hành một khoa đều có trụ sở tại đây.\n\nTối thiểu. Yêu cầu nhân viên: \n1x Bác sĩ</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>ROOM_TYPE_INPATIENT_WARD</LocID>                            <Text>Phòng nội trú</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>ROOM_TYPE_INPATIENT_WARD_DESCRIPTION</LocID>                <Text>Khu điều trị nội trú cho bệnh nhân nhập viện.\n\nTối thiểu. Yêu cầu nhân viên: \n1x Bác sĩ \n1x Y tá \n(Nhân sự cơ bản tại Phòng trực và Phòng trực y tá)</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ROOM_TYPE_INPATIENT_WARD_DESCRIPTION</LocID>                <Text>Phòng nội trú cho bệnh nhân nhập viện.\n\nTối thiểu. Yêu cầu nhân viên: \n1x Bác sĩ \n1x Y tá \n(Nhân sự cơ bản tại Phòng trực và Phòng trực y tá)</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>ROOM_TYPE_HIGH_PRIORITY_INPATIENT_WARD</LocID>              <Text>HDU</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>ROOM_TYPE_HIGH_PRIORITY_INPATIENT_WARD_DESCRIPTION</LocID>  <Text>Phòng HDU cung cấp mức độ chăm sóc y tế cao hơn cho bệnh nhân nhập viện.\n\nTối thiểu. Yêu cầu nhân viên: \n1x Bác sĩ \n1x Y tá \n(Nhân sự cơ bản tại Phòng trực và Phòng trực y tá)</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>ROOM_TYPE_INTENSIVE_CARE_UNIT</LocID>                       <Text>ICU</Text>  </GameDBLocalizedString>
@@ -548,7 +548,7 @@
             <GameDBLocalizedString>      <LocID>OBJECT_DECAL_DPT_ER</LocID>       			        <Text>Cấp cứu</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_DECAL_DPT_ICU</LocID>       			        <Text>ICU</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_DECAL_DPT_IM</LocID>       			        <Text>Khoa nội</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OBJECT_DECAL_DPT_GS</LocID>       			        <Text>Phẫu thuật tổng quát</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OBJECT_DECAL_DPT_GS</LocID>       			        <Text>Phòng đại phẫu</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_DECAL_DPT_OT</LocID>       			        <Text>Chỉnh hình</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_DECAL_DPT_NE</LocID>       			        <Text>Thần kinh</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_DECAL_DPT_CAR</LocID>       			        <Text>Tim mạch</Text>  </GameDBLocalizedString>
@@ -563,7 +563,7 @@
             <!--UPDATED--><GameDBLocalizedString>      <LocID>OBJECT_DECAL_ROOM_NEURODIAGNOSTIC</LocID>       	<Text>Đơn vị Neuroexam</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_DECAL_ROOM_XRAY</LocID>       			    <Text>X-quang</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_DECAL_ROOM_COMMON</LocID>       			    <Text>Phòng nghỉ</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OBJECT_DECAL_INPATIENT_WARD</LocID>       			<Text>Khu điều trị nội trú</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OBJECT_DECAL_INPATIENT_WARD</LocID>       			<Text>Phòng nội trú</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_DECAL_ROOM_ONCALL</LocID>       			    <Text>Phòng trực</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_DECAL_NURSES_STATION</LocID>       			<Text>Phòng trực y tá</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_DECAL_ROOM_CT</LocID>       			        <Text>CT</Text>  </GameDBLocalizedString>
@@ -571,7 +571,7 @@
             <GameDBLocalizedString>      <LocID>OBJECT_DECAL_SONOGRAPHY_UNIT</LocID>       			<Text>Phòng siêu âm</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_DECAL_CORRIDOR</LocID>       			    <Text>Hành lang</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_DECAL_CARDIOVASCULAR_UNIT</LocID>       		<Text>Phòng đo điện tim</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OBJECT_DECAL_ROOM_OBSERVATION</LocID>       		<Text>Khu điều trị nội trú</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OBJECT_DECAL_ROOM_OBSERVATION</LocID>       		<Text>Phòng nội trú</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_DECAL_HIGH_PRIORITY</LocID>       			<Text>Phòng HDU</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_DECAL_ANGIOGRAPHY</LocID>       			    <Text>Chụp mạch</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_DECAL_MRI</LocID>       			            <Text>MRI</Text>  </GameDBLocalizedString>
@@ -682,8 +682,8 @@
             <GameDBLocalizedString>      <LocID>PREFAB_ROOM_STAT_LAB_NE_ABBR</LocID>                 <Text>Phòng TN thần kinh - 8 x 6</Text>  </GameDBLocalizedString>
 
             <GameDBLocalizedString>      <LocID>PREFAB_ROOM_CLEANING_CLOSET_ABBR</LocID>             <Text>Phòng lao công - 4 x 6</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>PREFAB_ROOM_INPATIENT_WARD_LARGE_ABBR</LocID>        <Text>Khu điều trị nội trú - 12 x 6</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>PREFAB_ROOM_INPATIENT_WARD_SMALL_ABBR</LocID>        <Text>Khu điều trị nội trú - 4 x 6</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>PREFAB_ROOM_INPATIENT_WARD_LARGE_ABBR</LocID>        <Text>Phòng nội trú - 12 x 6</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>PREFAB_ROOM_INPATIENT_WARD_SMALL_ABBR</LocID>        <Text>Phòng nội trú - 4 x 6</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>PREFAB_ROOM_HIGH_PRIORITY_WARD_LARGE_ABBR</LocID>    <Text>Phòng HDU - 12 x 6</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>PREFAB_ROOM_HIGH_PRIORITY_WARD_SMALL_ABBR</LocID>    <Text>Phòng HDU - 4 x 6</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>PREFAB_ROOM_ICU_LARGE_ABBR</LocID>                   <Text>Phòng ICU - 16 x 6</Text>  </GameDBLocalizedString>
